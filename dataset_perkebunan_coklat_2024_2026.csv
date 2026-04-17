@@ -1,0 +1,1001 @@
+Tanggal,Wilayah,Jenis_Perkebunan,Jenis_Proses,Produksi_kg,Harga_per_kg_IDR,Kualitas
+2025-12-10,Sulawesi,Perkebunan Swasta,Roasting,888.09,41341.02,Grade C
+2024-05-15,Bali,Perkebunan Swasta,Roasting,1474.44,31802.06,Grade C
+2025-11-17,Sumatera,Perkebunan Swasta,Roasting,586.48,39023.55,Grade C
+2025-06-05,Sulawesi,Perkebunan Negara,Fermentasi,1455.99,54599.78,Grade C
+2026-01-24,NTT,Perkebunan Negara,Roasting,421.91,43971.4,Grade A
+2025-08-14,Sumatera,Perkebunan Rakyat,Penggilingan,785.83,50584.0,Grade A
+2024-04-10,Bali,Perkebunan Rakyat,Pengeringan,1680.95,28367.57,Grade C
+2024-03-14,Jawa Barat,Perkebunan Rakyat,Pengeringan,252.93,58970.95,Grade C
+2024-05-10,NTT,Perkebunan Swasta,Fermentasi,511.64,32189.31,Grade B
+2025-10-04,Bali,Perkebunan Negara,Pengeringan,358.64,41103.87,Grade B
+2025-03-23,Sumatera,Perkebunan Negara,Pengeringan,1542.9,50929.06,Grade C
+2024-04-20,NTT,Perkebunan Rakyat,Penggilingan,328.4,54685.44,Grade A
+2025-03-23,Jawa Timur,Perkebunan Rakyat,Roasting,1361.83,29052.91,Grade B
+2025-06-10,Sumatera,Perkebunan Swasta,Pengeringan,520.49,45684.65,Grade C
+2024-06-08,Sumatera,Perkebunan Rakyat,Roasting,903.9,41292.07,Grade B
+2025-01-26,NTT,Perkebunan Swasta,Roasting,711.07,37025.87,Grade B
+2024-09-07,Jawa Barat,Perkebunan Swasta,Roasting,1477.64,54586.29,Grade B
+2024-05-21,Jawa Barat,Perkebunan Negara,Roasting,1313.29,56899.68,Grade B
+2024-03-03,NTT,Perkebunan Negara,Pengeringan,1611.32,34724.63,Grade B
+2024-12-10,Sulawesi,Perkebunan Rakyat,Penggilingan,351.34,47371.83,Grade C
+2025-06-30,Bali,Perkebunan Negara,Fermentasi,235.03,52489.11,Grade C
+2025-12-26,Bali,Perkebunan Swasta,Pengeringan,998.1,52120.89,Grade B
+2024-05-21,Bali,Perkebunan Rakyat,Pengeringan,1287.02,31456.28,Grade C
+2024-06-26,Jawa Barat,Perkebunan Rakyat,Roasting,471.27,35985.36,Grade C
+2025-11-17,Bali,Perkebunan Rakyat,Pengeringan,588.73,51618.96,Grade A
+2025-11-28,NTT,Perkebunan Rakyat,Pengeringan,257.12,53382.31,Grade C
+2024-03-19,Sulawesi,Perkebunan Negara,Penggilingan,294.53,45036.97,Grade A
+2024-10-03,Jawa Timur,Perkebunan Rakyat,Pengeringan,848.67,56917.13,Grade A
+2024-04-15,Sulawesi,Perkebunan Swasta,Penggilingan,834.85,37535.66,Grade B
+2025-06-24,Sulawesi,Perkebunan Rakyat,Roasting,1815.71,36763.63,Grade C
+2024-06-06,Sumatera,Perkebunan Rakyat,Pengeringan,575.31,34129.81,Grade C
+2024-08-05,Sumatera,Perkebunan Swasta,Roasting,207.09,55480.53,Grade C
+2024-10-03,Sulawesi,Perkebunan Swasta,Pengeringan,714.03,36554.5,Grade B
+2024-05-21,Jawa Barat,Perkebunan Rakyat,Penggilingan,552.01,58291.37,Grade B
+2024-12-12,Jawa Timur,Perkebunan Rakyat,Roasting,706.27,36740.1,Grade A
+2024-08-07,Jawa Barat,Perkebunan Negara,Fermentasi,1275.01,35784.9,Grade C
+2024-08-07,NTT,Perkebunan Swasta,Fermentasi,1471.41,50801.05,Grade C
+2024-07-06,Sulawesi,Perkebunan Rakyat,Roasting,1497.23,41188.87,Grade B
+2026-01-11,Sulawesi,Perkebunan Swasta,Penggilingan,1172.47,38722.59,Grade C
+2024-10-01,Jawa Barat,Perkebunan Swasta,Fermentasi,667.65,42886.41,Grade A
+2024-02-08,Sumatera,Perkebunan Rakyat,Penggilingan,622.12,41543.07,Grade C
+2025-04-24,Sulawesi,Perkebunan Swasta,Penggilingan,545.64,55358.1,Grade B
+2025-09-18,Sumatera,Perkebunan Rakyat,Roasting,1140.11,41685.66,Grade C
+2024-10-31,Jawa Timur,Perkebunan Swasta,Fermentasi,1300.09,42756.3,Grade C
+2024-08-09,NTT,Perkebunan Rakyat,Penggilingan,1008.36,53406.36,Grade C
+2024-02-23,Jawa Barat,Perkebunan Swasta,Pengeringan,1326.59,35284.39,Grade C
+2026-02-10,Sumatera,Perkebunan Negara,Roasting,1888.6,56541.04,Grade C
+2024-02-22,Jawa Barat,Perkebunan Swasta,Penggilingan,740.34,32885.27,Grade C
+2024-10-01,Sulawesi,Perkebunan Negara,Fermentasi,994.54,28096.84,Grade A
+2026-01-12,Jawa Timur,Perkebunan Rakyat,Roasting,266.59,42355.34,Grade C
+2024-12-09,Sumatera,Perkebunan Rakyat,Fermentasi,1536.44,57893.73,Grade A
+2024-05-10,NTT,Perkebunan Negara,Fermentasi,645.93,55166.43,Grade C
+2025-03-31,Jawa Barat,Perkebunan Negara,Pengeringan,292.22,52042.09,Grade C
+2024-09-24,NTT,Perkebunan Rakyat,Pengeringan,230.54,39894.88,Grade C
+2026-02-20,Sulawesi,Perkebunan Rakyat,Penggilingan,1880.62,36150.08,Grade C
+2025-06-10,Jawa Barat,Perkebunan Negara,Roasting,1039.26,36758.7,Grade B
+2024-05-31,NTT,Perkebunan Rakyat,Penggilingan,1378.12,54554.22,Grade B
+2025-01-10,NTT,Perkebunan Swasta,Roasting,269.93,28987.93,Grade B
+2025-11-21,Bali,Perkebunan Rakyat,Pengeringan,405.21,47971.54,Grade C
+2025-08-31,Jawa Timur,Perkebunan Rakyat,Penggilingan,1732.49,48160.25,Grade B
+2025-08-31,Jawa Timur,Perkebunan Negara,Roasting,827.23,42280.95,Grade A
+2026-02-12,Sulawesi,Perkebunan Swasta,Penggilingan,1933.59,45662.6,Grade B
+2024-06-29,Sumatera,Perkebunan Rakyat,Pengeringan,860.82,56203.65,Grade A
+2024-02-01,Sulawesi,Perkebunan Rakyat,Fermentasi,504.29,59273.5,Grade C
+2025-02-13,Jawa Timur,Perkebunan Swasta,Roasting,1061.47,42556.07,Grade C
+2025-08-02,Bali,Perkebunan Negara,Roasting,1083.98,48168.0,Grade C
+2024-12-04,Sumatera,Perkebunan Negara,Penggilingan,1181.49,54267.62,Grade A
+2024-06-22,NTT,Perkebunan Rakyat,Roasting,1528.09,54741.32,Grade A
+2024-10-25,Sumatera,Perkebunan Negara,Roasting,1189.01,51807.94,Grade A
+2024-01-10,Jawa Timur,Perkebunan Rakyat,Fermentasi,887.81,44477.0,Grade A
+2024-05-18,Jawa Timur,Perkebunan Swasta,Penggilingan,1093.3,40667.64,Grade A
+2026-02-24,Sumatera,Perkebunan Negara,Penggilingan,1585.62,45088.14,Grade B
+2024-06-25,Jawa Timur,Perkebunan Swasta,Fermentasi,713.91,43128.66,Grade B
+2025-09-23,Sulawesi,Perkebunan Swasta,Pengeringan,1070.85,46676.9,Grade A
+2024-10-02,NTT,Perkebunan Rakyat,Fermentasi,837.37,54283.97,Grade B
+2025-04-22,Sumatera,Perkebunan Negara,Penggilingan,1437.26,25058.2,Grade C
+2024-01-23,Sulawesi,Perkebunan Swasta,Penggilingan,942.31,46495.79,Grade A
+2025-07-27,NTT,Perkebunan Negara,Pengeringan,1155.18,45953.67,Grade A
+2025-10-16,Sulawesi,Perkebunan Negara,Penggilingan,1853.22,57200.23,Grade A
+2025-07-26,Jawa Barat,Perkebunan Swasta,Roasting,594.5,53821.99,Grade B
+2025-02-17,Jawa Timur,Perkebunan Negara,Pengeringan,1572.91,48482.92,Grade A
+2025-10-08,NTT,Perkebunan Rakyat,Roasting,777.56,35417.19,Grade C
+2025-10-16,Sulawesi,Perkebunan Negara,Pengeringan,553.61,51806.23,Grade C
+2025-10-15,Jawa Timur,Perkebunan Negara,Penggilingan,1414.03,48252.17,Grade B
+2024-12-13,Sulawesi,Perkebunan Negara,Roasting,1204.08,40598.81,Grade A
+2025-07-27,Sumatera,Perkebunan Rakyat,Fermentasi,1555.63,39123.31,Grade C
+2024-03-31,NTT,Perkebunan Negara,Penggilingan,489.74,25381.62,Grade A
+2024-09-10,Jawa Timur,Perkebunan Negara,Penggilingan,614.77,44366.58,Grade A
+2024-03-06,Sumatera,Perkebunan Negara,Fermentasi,643.84,46125.66,Grade C
+2024-04-26,Sulawesi,Perkebunan Rakyat,Roasting,654.36,30504.29,Grade A
+2026-02-10,Jawa Timur,Perkebunan Swasta,Roasting,883.93,49055.42,Grade A
+2025-11-11,Jawa Timur,Perkebunan Rakyat,Pengeringan,209.48,58259.22,Grade A
+2024-09-07,Jawa Barat,Perkebunan Swasta,Pengeringan,1518.2,27454.13,Grade B
+2025-04-17,Jawa Barat,Perkebunan Negara,Fermentasi,426.61,57980.83,Grade B
+2026-01-25,Sumatera,Perkebunan Rakyat,Pengeringan,1568.74,54270.96,Grade A
+2024-04-10,Sulawesi,Perkebunan Negara,Fermentasi,1980.9,51182.01,Grade B
+2026-01-12,Sulawesi,Perkebunan Negara,Penggilingan,614.82,46472.2,Grade A
+2024-07-24,NTT,Perkebunan Swasta,Pengeringan,1545.4,43179.04,Grade C
+2024-05-21,Sulawesi,Perkebunan Negara,Pengeringan,213.3,28646.08,Grade C
+2024-08-27,Sulawesi,Perkebunan Rakyat,Roasting,690.62,29398.85,Grade B
+2025-07-04,Sulawesi,Perkebunan Rakyat,Pengeringan,1030.4,36213.72,Grade A
+2024-07-03,Jawa Barat,Perkebunan Swasta,Fermentasi,1009.81,32429.21,Grade B
+2024-05-13,Jawa Timur,Perkebunan Negara,Fermentasi,353.85,49481.38,Grade B
+2025-07-19,NTT,Perkebunan Rakyat,Penggilingan,658.66,46799.74,Grade C
+2025-11-07,Sumatera,Perkebunan Swasta,Fermentasi,1019.1,55557.97,Grade A
+2026-02-09,Sumatera,Perkebunan Rakyat,Pengeringan,867.48,33788.28,Grade C
+2025-01-11,Sumatera,Perkebunan Swasta,Fermentasi,1494.96,41757.93,Grade B
+2025-01-17,Sumatera,Perkebunan Rakyat,Penggilingan,1048.16,51493.37,Grade A
+2024-07-08,NTT,Perkebunan Swasta,Pengeringan,1800.96,34563.68,Grade B
+2025-07-07,Bali,Perkebunan Swasta,Fermentasi,358.99,30522.99,Grade B
+2025-07-24,Sumatera,Perkebunan Swasta,Pengeringan,1639.72,25108.72,Grade A
+2024-05-23,Sumatera,Perkebunan Swasta,Roasting,1199.03,28807.61,Grade B
+2026-02-03,Sumatera,Perkebunan Rakyat,Fermentasi,330.66,40061.19,Grade B
+2024-09-16,Bali,Perkebunan Rakyat,Pengeringan,641.93,29778.56,Grade C
+2024-05-14,Jawa Timur,Perkebunan Rakyat,Fermentasi,1891.41,55335.87,Grade B
+2024-08-14,Jawa Timur,Perkebunan Negara,Fermentasi,1681.34,34245.99,Grade A
+2024-02-03,Bali,Perkebunan Swasta,Pengeringan,686.62,41565.05,Grade B
+2025-03-16,NTT,Perkebunan Rakyat,Roasting,968.79,59845.97,Grade B
+2025-06-21,Sulawesi,Perkebunan Swasta,Fermentasi,1097.1,52212.63,Grade C
+2025-07-01,NTT,Perkebunan Rakyat,Penggilingan,496.45,51874.29,Grade B
+2026-01-11,Jawa Barat,Perkebunan Rakyat,Pengeringan,995.36,48492.2,Grade A
+2025-05-25,NTT,Perkebunan Rakyat,Fermentasi,1418.13,52907.8,Grade C
+2024-05-17,Jawa Barat,Perkebunan Swasta,Penggilingan,377.55,48058.05,Grade A
+2025-09-13,Jawa Timur,Perkebunan Negara,Fermentasi,1489.37,28170.77,Grade B
+2026-02-08,Sulawesi,Perkebunan Swasta,Fermentasi,385.88,59478.28,Grade C
+2025-11-05,Sumatera,Perkebunan Swasta,Fermentasi,884.45,56549.64,Grade C
+2025-11-18,Jawa Timur,Perkebunan Swasta,Roasting,1996.42,53282.74,Grade B
+2024-08-08,Jawa Barat,Perkebunan Swasta,Roasting,646.16,51214.66,Grade A
+2024-01-07,Jawa Barat,Perkebunan Swasta,Roasting,1129.2,40194.35,Grade A
+2025-11-19,Sumatera,Perkebunan Rakyat,Roasting,856.28,45986.37,Grade A
+2024-01-14,NTT,Perkebunan Rakyat,Roasting,255.5,41150.2,Grade B
+2024-02-19,Bali,Perkebunan Negara,Roasting,1170.48,34345.14,Grade C
+2024-03-07,Jawa Timur,Perkebunan Swasta,Roasting,436.28,34579.96,Grade A
+2024-05-27,Sulawesi,Perkebunan Swasta,Roasting,812.77,26741.93,Grade B
+2024-04-10,Jawa Barat,Perkebunan Swasta,Roasting,1744.94,25824.25,Grade B
+2024-09-11,Sumatera,Perkebunan Swasta,Fermentasi,1341.51,59074.97,Grade A
+2024-10-26,Sumatera,Perkebunan Rakyat,Penggilingan,1681.05,25275.66,Grade B
+2025-05-14,Jawa Barat,Perkebunan Rakyat,Roasting,1807.34,49297.93,Grade C
+2024-01-31,NTT,Perkebunan Rakyat,Roasting,1185.0,48109.97,Grade B
+2024-02-20,Jawa Timur,Perkebunan Swasta,Roasting,1524.03,55854.55,Grade B
+2024-09-06,Jawa Barat,Perkebunan Rakyat,Penggilingan,1102.78,49388.44,Grade C
+2024-04-12,NTT,Perkebunan Rakyat,Pengeringan,1549.84,53234.72,Grade C
+2025-09-06,NTT,Perkebunan Swasta,Penggilingan,349.1,25341.29,Grade C
+2025-05-17,NTT,Perkebunan Negara,Pengeringan,503.55,46118.1,Grade B
+2025-02-17,Bali,Perkebunan Rakyat,Penggilingan,1042.24,39479.24,Grade B
+2025-01-01,Sulawesi,Perkebunan Rakyat,Pengeringan,1312.77,26260.24,Grade A
+2025-04-06,Sumatera,Perkebunan Negara,Roasting,792.4,29858.29,Grade C
+2024-02-25,Bali,Perkebunan Rakyat,Roasting,271.41,55874.76,Grade A
+2024-03-10,Jawa Timur,Perkebunan Swasta,Roasting,1114.33,38248.29,Grade A
+2025-04-06,Bali,Perkebunan Swasta,Fermentasi,1846.26,59155.05,Grade A
+2024-05-09,Sumatera,Perkebunan Rakyat,Pengeringan,345.11,36798.33,Grade C
+2025-07-23,NTT,Perkebunan Swasta,Penggilingan,1970.95,33519.31,Grade A
+2024-01-02,Sulawesi,Perkebunan Negara,Roasting,1539.3,43109.54,Grade A
+2025-03-18,NTT,Perkebunan Rakyat,Penggilingan,419.25,36934.05,Grade A
+2025-05-16,Bali,Perkebunan Swasta,Penggilingan,473.8,31393.74,Grade B
+2025-06-27,Sumatera,Perkebunan Rakyat,Penggilingan,745.69,37635.85,Grade B
+2024-09-23,NTT,Perkebunan Negara,Roasting,502.19,44613.32,Grade C
+2024-12-29,Sumatera,Perkebunan Rakyat,Fermentasi,256.5,58326.35,Grade B
+2024-08-11,Sulawesi,Perkebunan Rakyat,Penggilingan,1638.52,32747.65,Grade A
+2024-01-31,NTT,Perkebunan Rakyat,Pengeringan,508.11,52497.2,Grade B
+2024-12-27,Jawa Timur,Perkebunan Negara,Fermentasi,1366.15,33484.34,Grade B
+2024-03-01,Bali,Perkebunan Swasta,Roasting,455.46,47093.83,Grade B
+2025-01-06,Bali,Perkebunan Swasta,Penggilingan,646.04,59162.17,Grade C
+2025-04-26,Sulawesi,Perkebunan Swasta,Penggilingan,1600.21,33160.63,Grade A
+2024-06-30,Bali,Perkebunan Rakyat,Roasting,592.32,47808.25,Grade B
+2024-01-21,NTT,Perkebunan Negara,Pengeringan,1130.7,27921.72,Grade C
+2025-12-18,NTT,Perkebunan Rakyat,Pengeringan,530.96,53477.05,Grade B
+2024-07-23,Sulawesi,Perkebunan Swasta,Pengeringan,646.7,52860.52,Grade A
+2025-12-03,Sulawesi,Perkebunan Rakyat,Pengeringan,510.41,31844.41,Grade C
+2025-05-01,Sulawesi,Perkebunan Rakyat,Penggilingan,451.52,32143.23,Grade B
+2024-11-08,Sulawesi,Perkebunan Negara,Fermentasi,409.31,33495.54,Grade A
+2025-08-18,Jawa Timur,Perkebunan Rakyat,Pengeringan,1002.16,35293.22,Grade C
+2024-05-26,Bali,Perkebunan Rakyat,Roasting,1505.02,42729.28,Grade B
+2025-01-07,NTT,Perkebunan Swasta,Penggilingan,825.97,45211.67,Grade B
+2026-01-04,Jawa Barat,Perkebunan Negara,Pengeringan,968.08,40241.52,Grade B
+2024-02-27,Jawa Barat,Perkebunan Swasta,Roasting,466.15,41859.47,Grade A
+2024-11-10,Jawa Barat,Perkebunan Negara,Fermentasi,1420.9,57711.48,Grade B
+2025-02-26,Jawa Barat,Perkebunan Rakyat,Penggilingan,1936.91,33499.11,Grade A
+2024-08-31,Jawa Timur,Perkebunan Rakyat,Fermentasi,1741.74,40436.93,Grade C
+2025-03-30,Sulawesi,Perkebunan Rakyat,Penggilingan,1653.56,47222.93,Grade A
+2024-06-25,Jawa Barat,Perkebunan Rakyat,Fermentasi,1973.11,54485.47,Grade B
+2024-04-11,NTT,Perkebunan Negara,Pengeringan,476.15,39468.49,Grade B
+2024-05-22,Bali,Perkebunan Negara,Roasting,509.15,56078.65,Grade B
+2024-11-29,Sumatera,Perkebunan Swasta,Penggilingan,1651.39,40556.58,Grade C
+2025-11-28,NTT,Perkebunan Negara,Penggilingan,1882.83,55322.47,Grade B
+2025-09-02,Sumatera,Perkebunan Rakyat,Fermentasi,777.91,46609.05,Grade A
+2026-02-15,NTT,Perkebunan Rakyat,Penggilingan,1700.18,51772.77,Grade A
+2024-07-24,Bali,Perkebunan Rakyat,Penggilingan,714.49,59335.58,Grade A
+2025-08-07,NTT,Perkebunan Rakyat,Penggilingan,316.87,58535.68,Grade B
+2024-03-24,Sulawesi,Perkebunan Rakyat,Fermentasi,1740.25,29211.48,Grade A
+2025-05-15,Sumatera,Perkebunan Negara,Roasting,1256.61,58610.61,Grade C
+2024-02-10,NTT,Perkebunan Swasta,Pengeringan,1573.75,54459.87,Grade B
+2024-05-29,NTT,Perkebunan Swasta,Roasting,978.43,41503.96,Grade B
+2024-07-31,Bali,Perkebunan Rakyat,Pengeringan,505.59,40227.52,Grade B
+2025-02-09,Jawa Barat,Perkebunan Rakyat,Pengeringan,1415.54,25821.18,Grade C
+2025-04-10,Bali,Perkebunan Swasta,Penggilingan,1096.8,51588.5,Grade B
+2025-05-01,Jawa Timur,Perkebunan Swasta,Fermentasi,781.36,51363.28,Grade B
+2025-06-07,Sulawesi,Perkebunan Swasta,Penggilingan,1781.65,38582.24,Grade C
+2025-06-09,NTT,Perkebunan Swasta,Penggilingan,1624.94,34755.86,Grade A
+2026-02-03,NTT,Perkebunan Rakyat,Pengeringan,680.03,40433.64,Grade A
+2026-01-09,Sumatera,Perkebunan Negara,Pengeringan,252.79,28406.16,Grade A
+2025-04-27,Bali,Perkebunan Swasta,Penggilingan,1841.95,39845.18,Grade B
+2024-04-03,Bali,Perkebunan Rakyat,Pengeringan,1272.35,57958.7,Grade C
+2025-02-18,NTT,Perkebunan Swasta,Pengeringan,1964.16,38423.98,Grade B
+2025-09-23,NTT,Perkebunan Rakyat,Fermentasi,1393.77,50937.32,Grade B
+2024-03-18,Sumatera,Perkebunan Rakyat,Pengeringan,237.52,40443.0,Grade A
+2026-01-26,Jawa Barat,Perkebunan Negara,Penggilingan,1506.89,37089.29,Grade A
+2024-03-21,Jawa Timur,Perkebunan Rakyat,Roasting,1880.12,58764.29,Grade A
+2025-06-23,Jawa Timur,Perkebunan Rakyat,Fermentasi,1210.07,54513.72,Grade B
+2026-01-12,Bali,Perkebunan Swasta,Pengeringan,389.46,35184.33,Grade B
+2025-11-27,Jawa Timur,Perkebunan Rakyat,Fermentasi,1596.02,29436.43,Grade C
+2024-07-04,NTT,Perkebunan Swasta,Roasting,314.2,41122.01,Grade A
+2025-02-08,Bali,Perkebunan Negara,Penggilingan,889.93,51122.85,Grade B
+2025-02-10,Sumatera,Perkebunan Negara,Fermentasi,1581.72,39181.2,Grade C
+2025-11-10,NTT,Perkebunan Swasta,Roasting,392.54,53276.41,Grade B
+2024-12-09,Jawa Barat,Perkebunan Negara,Pengeringan,1297.81,32172.95,Grade C
+2024-03-26,Jawa Barat,Perkebunan Rakyat,Pengeringan,703.08,44282.54,Grade C
+2025-10-10,NTT,Perkebunan Rakyat,Penggilingan,1155.31,30528.84,Grade A
+2024-06-06,Sumatera,Perkebunan Rakyat,Penggilingan,1426.17,39907.08,Grade A
+2025-10-17,Sulawesi,Perkebunan Swasta,Penggilingan,1998.55,47957.59,Grade B
+2025-12-23,Jawa Barat,Perkebunan Negara,Penggilingan,1348.75,56553.71,Grade B
+2025-04-15,Jawa Barat,Perkebunan Rakyat,Fermentasi,468.92,52047.04,Grade B
+2025-08-27,Bali,Perkebunan Negara,Roasting,1947.41,38854.24,Grade C
+2024-01-20,Sumatera,Perkebunan Negara,Penggilingan,1464.86,53241.16,Grade C
+2024-04-17,Jawa Timur,Perkebunan Negara,Penggilingan,1918.51,29129.57,Grade C
+2024-07-18,Jawa Barat,Perkebunan Rakyat,Pengeringan,527.55,46304.31,Grade C
+2024-09-07,Sumatera,Perkebunan Negara,Roasting,1506.78,59546.32,Grade C
+2025-01-17,Jawa Timur,Perkebunan Swasta,Fermentasi,1703.53,29369.93,Grade C
+2024-01-27,Sumatera,Perkebunan Swasta,Penggilingan,877.52,33422.74,Grade A
+2024-10-27,Jawa Timur,Perkebunan Negara,Roasting,1128.18,37117.42,Grade C
+2026-01-07,Sumatera,Perkebunan Rakyat,Penggilingan,500.87,38722.83,Grade A
+2025-06-23,Bali,Perkebunan Rakyat,Penggilingan,1893.12,44466.36,Grade C
+2025-03-27,Jawa Timur,Perkebunan Rakyat,Pengeringan,534.57,28822.11,Grade C
+2026-02-02,Sumatera,Perkebunan Negara,Pengeringan,1480.9,29868.82,Grade A
+2025-12-09,NTT,Perkebunan Swasta,Pengeringan,1597.28,31016.75,Grade C
+2024-12-07,Jawa Timur,Perkebunan Negara,Penggilingan,1606.7,47545.25,Grade A
+2025-09-09,NTT,Perkebunan Rakyat,Roasting,1206.9,48174.21,Grade B
+2024-07-25,NTT,Perkebunan Negara,Penggilingan,667.21,52465.13,Grade A
+2025-11-04,Jawa Timur,Perkebunan Negara,Roasting,385.38,26429.21,Grade A
+2026-01-22,Bali,Perkebunan Rakyat,Fermentasi,641.37,54069.09,Grade A
+2025-08-08,Sulawesi,Perkebunan Rakyat,Penggilingan,963.43,59896.35,Grade B
+2024-05-01,NTT,Perkebunan Negara,Penggilingan,1478.98,25910.14,Grade A
+2024-09-23,Sulawesi,Perkebunan Swasta,Penggilingan,1823.97,46451.41,Grade C
+2025-10-16,NTT,Perkebunan Rakyat,Fermentasi,1478.67,46778.49,Grade B
+2024-06-18,Jawa Barat,Perkebunan Swasta,Penggilingan,1092.04,46120.53,Grade A
+2025-07-18,Bali,Perkebunan Rakyat,Fermentasi,904.12,35396.93,Grade C
+2024-11-25,Sulawesi,Perkebunan Swasta,Roasting,1157.78,46984.03,Grade C
+2025-10-06,Jawa Timur,Perkebunan Swasta,Fermentasi,1880.55,43251.02,Grade B
+2024-06-06,Jawa Timur,Perkebunan Negara,Pengeringan,1751.67,35788.63,Grade B
+2024-01-07,Sumatera,Perkebunan Rakyat,Fermentasi,337.7,37772.49,Grade C
+2026-01-25,Jawa Barat,Perkebunan Negara,Pengeringan,1275.08,27005.25,Grade C
+2025-01-08,Jawa Barat,Perkebunan Negara,Pengeringan,1455.26,42103.86,Grade A
+2025-09-06,Sumatera,Perkebunan Negara,Fermentasi,818.09,59968.29,Grade B
+2024-12-24,Sumatera,Perkebunan Swasta,Fermentasi,501.72,29333.71,Grade C
+2024-05-19,Bali,Perkebunan Swasta,Fermentasi,888.69,59395.61,Grade B
+2024-11-17,Jawa Barat,Perkebunan Swasta,Roasting,1147.14,31953.65,Grade A
+2026-02-21,Jawa Barat,Perkebunan Rakyat,Fermentasi,1619.98,53966.14,Grade A
+2025-09-03,Sulawesi,Perkebunan Rakyat,Fermentasi,517.56,55223.43,Grade C
+2024-09-09,Jawa Timur,Perkebunan Negara,Penggilingan,1926.94,26073.92,Grade B
+2024-03-22,NTT,Perkebunan Swasta,Pengeringan,1179.85,30661.36,Grade A
+2025-03-22,Sumatera,Perkebunan Rakyat,Fermentasi,1149.56,41099.67,Grade B
+2024-02-08,Sulawesi,Perkebunan Swasta,Roasting,1575.95,51139.14,Grade B
+2025-06-03,Sulawesi,Perkebunan Rakyat,Fermentasi,1624.37,31926.05,Grade B
+2024-10-08,Sumatera,Perkebunan Swasta,Pengeringan,792.57,47632.07,Grade B
+2024-02-01,Sulawesi,Perkebunan Negara,Roasting,1919.07,36844.96,Grade A
+2024-09-21,NTT,Perkebunan Rakyat,Roasting,1283.47,59698.52,Grade B
+2025-10-14,NTT,Perkebunan Rakyat,Roasting,1248.17,59113.15,Grade A
+2024-10-23,NTT,Perkebunan Negara,Pengeringan,356.27,27057.19,Grade C
+2025-08-01,Jawa Timur,Perkebunan Rakyat,Penggilingan,1733.32,46194.08,Grade B
+2025-03-26,NTT,Perkebunan Negara,Pengeringan,1821.55,28807.08,Grade B
+2024-08-01,Bali,Perkebunan Rakyat,Roasting,664.9,31595.59,Grade C
+2026-01-22,Jawa Barat,Perkebunan Rakyat,Penggilingan,1902.37,36541.0,Grade C
+2024-09-10,Jawa Barat,Perkebunan Swasta,Roasting,1932.29,49553.98,Grade C
+2024-03-31,Bali,Perkebunan Rakyat,Pengeringan,1118.48,46127.18,Grade C
+2025-03-26,NTT,Perkebunan Rakyat,Fermentasi,947.64,34208.69,Grade B
+2025-12-24,Jawa Timur,Perkebunan Negara,Fermentasi,581.69,54646.14,Grade B
+2025-12-22,NTT,Perkebunan Negara,Penggilingan,935.01,36763.91,Grade A
+2025-12-12,Jawa Barat,Perkebunan Swasta,Fermentasi,1511.41,57916.77,Grade B
+2025-12-28,Sulawesi,Perkebunan Swasta,Pengeringan,1852.13,42114.07,Grade C
+2025-01-13,Jawa Barat,Perkebunan Rakyat,Penggilingan,678.84,53931.27,Grade B
+2024-11-15,NTT,Perkebunan Swasta,Fermentasi,1311.68,50860.06,Grade A
+2025-02-09,Bali,Perkebunan Swasta,Penggilingan,430.33,28190.94,Grade C
+2025-03-20,Bali,Perkebunan Negara,Fermentasi,637.3,45110.61,Grade A
+2025-10-31,NTT,Perkebunan Rakyat,Fermentasi,933.57,35959.43,Grade A
+2024-09-04,Sulawesi,Perkebunan Negara,Pengeringan,1315.1,27596.8,Grade B
+2024-11-19,Sumatera,Perkebunan Negara,Fermentasi,334.14,38218.76,Grade C
+2026-02-27,NTT,Perkebunan Negara,Roasting,1967.31,34469.15,Grade A
+2024-12-03,Jawa Timur,Perkebunan Negara,Fermentasi,1533.18,25482.03,Grade C
+2025-04-19,NTT,Perkebunan Swasta,Roasting,1891.88,51871.01,Grade B
+2025-07-04,Sumatera,Perkebunan Rakyat,Fermentasi,1641.13,58580.34,Grade A
+2025-03-26,Sumatera,Perkebunan Rakyat,Penggilingan,267.86,26797.34,Grade C
+2026-02-06,Jawa Barat,Perkebunan Negara,Penggilingan,977.7,36131.32,Grade A
+2025-05-23,Sulawesi,Perkebunan Negara,Fermentasi,1258.58,30189.04,Grade A
+2025-05-28,Jawa Timur,Perkebunan Negara,Pengeringan,1996.89,35576.03,Grade A
+2025-11-22,NTT,Perkebunan Negara,Fermentasi,1211.74,51244.22,Grade C
+2024-03-15,Jawa Barat,Perkebunan Rakyat,Roasting,649.24,55440.9,Grade B
+2024-07-11,Jawa Timur,Perkebunan Swasta,Pengeringan,1942.08,31634.02,Grade A
+2024-06-29,Sumatera,Perkebunan Rakyat,Roasting,1244.28,32855.7,Grade C
+2024-02-10,Bali,Perkebunan Swasta,Fermentasi,1593.4,43290.64,Grade C
+2024-04-13,Sumatera,Perkebunan Swasta,Fermentasi,832.83,30123.37,Grade A
+2024-04-05,NTT,Perkebunan Rakyat,Fermentasi,1411.72,50350.68,Grade A
+2026-01-17,Jawa Barat,Perkebunan Rakyat,Penggilingan,1489.73,51223.51,Grade C
+2025-02-12,Jawa Timur,Perkebunan Swasta,Fermentasi,1880.73,55680.47,Grade B
+2025-09-25,Bali,Perkebunan Rakyat,Roasting,1396.96,36514.95,Grade B
+2025-03-16,Sumatera,Perkebunan Rakyat,Roasting,1794.55,41047.81,Grade C
+2025-02-20,Jawa Timur,Perkebunan Swasta,Pengeringan,1904.93,39421.33,Grade C
+2025-05-23,Jawa Barat,Perkebunan Swasta,Penggilingan,1922.25,55513.41,Grade A
+2025-09-02,Jawa Timur,Perkebunan Swasta,Fermentasi,1113.72,54851.68,Grade B
+2026-01-07,NTT,Perkebunan Rakyat,Roasting,587.4,51853.99,Grade C
+2025-09-07,Bali,Perkebunan Negara,Roasting,1496.5,49261.11,Grade B
+2025-08-06,Sumatera,Perkebunan Rakyat,Penggilingan,1918.74,51796.18,Grade A
+2024-02-15,Sumatera,Perkebunan Rakyat,Roasting,1256.8,45865.75,Grade A
+2024-01-08,Sumatera,Perkebunan Negara,Roasting,1826.03,53959.39,Grade B
+2025-12-13,Sumatera,Perkebunan Negara,Roasting,1385.01,55981.25,Grade A
+2024-03-30,Jawa Barat,Perkebunan Rakyat,Pengeringan,325.01,48285.67,Grade C
+2024-12-05,Sumatera,Perkebunan Negara,Penggilingan,1103.63,37135.53,Grade B
+2025-09-19,NTT,Perkebunan Swasta,Penggilingan,827.05,39682.87,Grade B
+2025-10-26,NTT,Perkebunan Swasta,Roasting,1906.58,36822.42,Grade C
+2025-11-13,Sulawesi,Perkebunan Swasta,Roasting,1901.78,45179.86,Grade A
+2024-11-05,Sumatera,Perkebunan Swasta,Fermentasi,1981.5,56218.34,Grade A
+2024-02-21,Bali,Perkebunan Rakyat,Fermentasi,1056.61,29790.18,Grade C
+2026-02-15,Bali,Perkebunan Swasta,Penggilingan,625.9,44047.02,Grade C
+2024-07-21,Jawa Barat,Perkebunan Negara,Fermentasi,1156.95,26499.03,Grade B
+2025-07-27,Sulawesi,Perkebunan Rakyat,Pengeringan,1273.09,39954.69,Grade B
+2025-08-16,Jawa Timur,Perkebunan Rakyat,Penggilingan,390.24,29203.93,Grade B
+2025-01-06,Jawa Timur,Perkebunan Swasta,Pengeringan,1664.43,37491.03,Grade C
+2024-07-23,Sumatera,Perkebunan Negara,Penggilingan,406.63,29757.03,Grade A
+2025-12-05,Bali,Perkebunan Rakyat,Pengeringan,1871.76,53783.95,Grade C
+2024-02-29,Bali,Perkebunan Rakyat,Pengeringan,1611.22,48760.69,Grade A
+2025-01-24,Sulawesi,Perkebunan Negara,Roasting,1475.62,59038.6,Grade C
+2025-09-14,Sulawesi,Perkebunan Swasta,Fermentasi,664.86,31103.43,Grade C
+2025-01-24,NTT,Perkebunan Rakyat,Penggilingan,577.78,53182.17,Grade C
+2024-08-11,NTT,Perkebunan Rakyat,Fermentasi,1337.77,58752.88,Grade B
+2025-11-08,Bali,Perkebunan Negara,Pengeringan,1418.83,55276.91,Grade A
+2024-04-28,Jawa Barat,Perkebunan Negara,Fermentasi,1798.63,55869.5,Grade C
+2025-12-19,NTT,Perkebunan Negara,Penggilingan,1366.85,32127.94,Grade B
+2024-02-19,NTT,Perkebunan Negara,Penggilingan,726.75,53511.38,Grade C
+2025-02-11,NTT,Perkebunan Negara,Penggilingan,1662.18,34744.61,Grade C
+2024-05-05,Sumatera,Perkebunan Rakyat,Penggilingan,422.92,56848.55,Grade B
+2025-06-25,NTT,Perkebunan Negara,Roasting,1577.99,58516.08,Grade C
+2025-06-17,Jawa Barat,Perkebunan Rakyat,Pengeringan,437.96,53882.76,Grade B
+2024-11-22,Jawa Timur,Perkebunan Swasta,Penggilingan,1945.95,58970.94,Grade B
+2026-01-31,Sulawesi,Perkebunan Rakyat,Roasting,959.9,35365.78,Grade C
+2025-07-09,Bali,Perkebunan Negara,Penggilingan,1436.65,41978.56,Grade A
+2025-08-27,Bali,Perkebunan Negara,Pengeringan,549.8,52219.5,Grade B
+2024-11-05,Jawa Timur,Perkebunan Negara,Fermentasi,1781.48,35080.93,Grade A
+2025-03-14,Jawa Timur,Perkebunan Negara,Pengeringan,1409.83,55248.08,Grade C
+2025-07-18,Sumatera,Perkebunan Rakyat,Roasting,1243.92,46036.88,Grade C
+2025-03-30,Sumatera,Perkebunan Negara,Penggilingan,371.87,48739.89,Grade B
+2024-03-09,Sumatera,Perkebunan Swasta,Roasting,1071.31,33510.03,Grade A
+2025-05-20,Sumatera,Perkebunan Negara,Pengeringan,1932.49,50913.52,Grade C
+2024-03-16,Sumatera,Perkebunan Swasta,Pengeringan,643.08,41990.16,Grade A
+2024-05-10,Jawa Barat,Perkebunan Rakyat,Pengeringan,1306.01,39763.03,Grade C
+2025-10-17,Jawa Barat,Perkebunan Negara,Fermentasi,1120.97,37798.46,Grade C
+2024-10-15,NTT,Perkebunan Negara,Roasting,1973.0,33215.19,Grade B
+2025-10-14,Sulawesi,Perkebunan Rakyat,Penggilingan,372.78,55906.36,Grade C
+2024-02-03,Jawa Barat,Perkebunan Rakyat,Penggilingan,629.18,33112.6,Grade B
+2024-06-08,Bali,Perkebunan Swasta,Fermentasi,1752.57,37116.75,Grade C
+2025-10-09,Jawa Barat,Perkebunan Swasta,Fermentasi,554.99,37319.1,Grade B
+2024-11-23,Sulawesi,Perkebunan Swasta,Pengeringan,1144.37,58925.06,Grade C
+2025-04-21,Bali,Perkebunan Rakyat,Roasting,1610.23,38113.6,Grade A
+2024-03-15,Sulawesi,Perkebunan Rakyat,Pengeringan,1287.84,40201.47,Grade C
+2025-12-01,NTT,Perkebunan Negara,Fermentasi,1254.75,42431.14,Grade A
+2025-08-22,NTT,Perkebunan Swasta,Roasting,457.37,36304.96,Grade B
+2024-08-21,NTT,Perkebunan Negara,Penggilingan,1675.57,29031.73,Grade A
+2024-07-12,Jawa Barat,Perkebunan Swasta,Pengeringan,601.97,55807.09,Grade C
+2024-03-10,Sulawesi,Perkebunan Negara,Fermentasi,1557.78,56589.3,Grade C
+2026-02-23,Jawa Barat,Perkebunan Rakyat,Fermentasi,1315.9,56548.04,Grade A
+2026-02-19,Bali,Perkebunan Swasta,Roasting,890.0,27767.64,Grade A
+2025-08-18,Sumatera,Perkebunan Negara,Penggilingan,1276.72,59192.9,Grade B
+2024-06-21,NTT,Perkebunan Rakyat,Roasting,1688.88,32867.65,Grade C
+2026-02-03,Sulawesi,Perkebunan Negara,Pengeringan,1896.86,40534.31,Grade A
+2024-04-10,Sulawesi,Perkebunan Rakyat,Penggilingan,1172.9,53017.72,Grade C
+2025-01-04,NTT,Perkebunan Swasta,Pengeringan,940.13,29432.18,Grade A
+2024-11-08,Jawa Timur,Perkebunan Negara,Roasting,1185.28,50222.81,Grade A
+2026-02-19,NTT,Perkebunan Negara,Roasting,1238.48,30103.63,Grade C
+2024-09-19,Sulawesi,Perkebunan Rakyat,Pengeringan,1076.91,35187.34,Grade C
+2024-11-13,Jawa Timur,Perkebunan Negara,Pengeringan,780.76,45353.34,Grade A
+2024-04-26,Sumatera,Perkebunan Rakyat,Fermentasi,247.77,38943.35,Grade B
+2024-09-26,Bali,Perkebunan Swasta,Penggilingan,1234.05,38157.27,Grade B
+2025-04-04,Bali,Perkebunan Rakyat,Penggilingan,814.3,44498.9,Grade A
+2024-11-14,Bali,Perkebunan Rakyat,Fermentasi,1539.0,25918.74,Grade C
+2025-12-26,Sulawesi,Perkebunan Negara,Roasting,1659.53,48658.33,Grade B
+2024-02-26,Jawa Barat,Perkebunan Swasta,Penggilingan,1695.34,26885.75,Grade B
+2025-04-26,Sulawesi,Perkebunan Negara,Fermentasi,715.96,26047.26,Grade A
+2024-06-22,Jawa Timur,Perkebunan Swasta,Roasting,1722.93,57964.96,Grade B
+2024-10-31,NTT,Perkebunan Rakyat,Penggilingan,1386.77,45786.05,Grade C
+2025-08-09,Jawa Barat,Perkebunan Swasta,Penggilingan,507.76,34918.7,Grade B
+2024-07-23,Jawa Timur,Perkebunan Swasta,Penggilingan,1504.44,38608.32,Grade A
+2025-04-29,NTT,Perkebunan Negara,Penggilingan,1873.17,59072.86,Grade B
+2024-04-11,Jawa Barat,Perkebunan Rakyat,Roasting,1694.66,39188.15,Grade B
+2024-08-21,Jawa Timur,Perkebunan Swasta,Fermentasi,1367.6,49868.97,Grade C
+2024-10-29,Jawa Barat,Perkebunan Rakyat,Penggilingan,377.25,45483.25,Grade A
+2026-01-15,Sulawesi,Perkebunan Negara,Penggilingan,666.54,28040.93,Grade A
+2025-03-25,Sulawesi,Perkebunan Negara,Fermentasi,1439.07,42331.57,Grade B
+2025-01-20,Jawa Timur,Perkebunan Rakyat,Penggilingan,312.65,30030.27,Grade B
+2025-02-20,Jawa Barat,Perkebunan Rakyat,Penggilingan,573.01,46492.34,Grade B
+2025-01-07,Jawa Timur,Perkebunan Swasta,Roasting,1712.58,26215.89,Grade C
+2026-02-03,Sumatera,Perkebunan Swasta,Fermentasi,1597.99,37799.79,Grade A
+2025-11-26,Sumatera,Perkebunan Negara,Fermentasi,1887.19,30342.13,Grade B
+2025-07-04,Bali,Perkebunan Rakyat,Fermentasi,465.63,26479.03,Grade B
+2025-12-02,Bali,Perkebunan Negara,Fermentasi,1260.53,27079.14,Grade B
+2025-02-14,Sumatera,Perkebunan Rakyat,Pengeringan,1770.89,37211.67,Grade A
+2024-03-16,Jawa Barat,Perkebunan Swasta,Pengeringan,925.53,41396.67,Grade B
+2026-01-27,Jawa Timur,Perkebunan Swasta,Penggilingan,1936.45,57066.36,Grade A
+2025-03-26,Jawa Barat,Perkebunan Negara,Penggilingan,211.92,43933.96,Grade B
+2024-01-30,NTT,Perkebunan Swasta,Roasting,691.79,30957.33,Grade A
+2024-09-19,Jawa Timur,Perkebunan Negara,Penggilingan,1433.99,40399.19,Grade A
+2025-11-11,Sulawesi,Perkebunan Negara,Fermentasi,983.03,42186.41,Grade A
+2025-07-17,Bali,Perkebunan Rakyat,Pengeringan,831.98,32980.82,Grade B
+2026-02-15,Bali,Perkebunan Negara,Roasting,1012.26,55714.59,Grade A
+2026-02-25,Sulawesi,Perkebunan Swasta,Pengeringan,1938.24,32102.58,Grade C
+2024-01-13,Jawa Timur,Perkebunan Swasta,Fermentasi,1072.6,51303.55,Grade C
+2024-07-17,Jawa Timur,Perkebunan Negara,Pengeringan,1281.67,56785.3,Grade A
+2024-10-04,Sulawesi,Perkebunan Swasta,Roasting,677.57,27226.56,Grade A
+2024-11-01,Sulawesi,Perkebunan Negara,Penggilingan,1095.74,25173.6,Grade C
+2025-06-22,NTT,Perkebunan Negara,Fermentasi,774.93,36743.43,Grade A
+2025-11-25,Sumatera,Perkebunan Rakyat,Fermentasi,554.78,39346.34,Grade B
+2025-02-18,Jawa Barat,Perkebunan Negara,Pengeringan,307.34,29015.79,Grade B
+2025-12-22,NTT,Perkebunan Swasta,Penggilingan,1347.97,32606.78,Grade A
+2024-10-31,Bali,Perkebunan Rakyat,Pengeringan,1646.69,29763.22,Grade B
+2024-10-15,Sulawesi,Perkebunan Swasta,Penggilingan,334.13,49741.5,Grade C
+2025-05-22,Bali,Perkebunan Swasta,Penggilingan,408.23,38581.93,Grade B
+2026-02-08,Sumatera,Perkebunan Swasta,Fermentasi,1192.31,35613.54,Grade B
+2025-05-16,Jawa Barat,Perkebunan Rakyat,Penggilingan,1464.94,33125.26,Grade C
+2025-05-07,Jawa Timur,Perkebunan Negara,Fermentasi,1195.27,39043.73,Grade C
+2024-03-06,Sumatera,Perkebunan Negara,Pengeringan,949.9,40789.3,Grade C
+2025-12-30,Jawa Barat,Perkebunan Negara,Fermentasi,1068.6,47630.13,Grade B
+2024-04-23,Sulawesi,Perkebunan Swasta,Pengeringan,1749.02,57999.52,Grade A
+2024-01-05,Sumatera,Perkebunan Swasta,Roasting,298.23,47135.19,Grade A
+2026-01-14,Sumatera,Perkebunan Negara,Roasting,1450.58,50412.09,Grade C
+2026-01-02,Jawa Barat,Perkebunan Negara,Roasting,1113.84,55320.56,Grade C
+2024-12-27,Bali,Perkebunan Negara,Roasting,442.02,26491.73,Grade C
+2025-12-29,Jawa Barat,Perkebunan Rakyat,Roasting,285.32,52112.34,Grade A
+2025-06-11,Sulawesi,Perkebunan Negara,Roasting,1656.45,35495.81,Grade B
+2024-10-20,Sulawesi,Perkebunan Rakyat,Fermentasi,1842.4,56619.85,Grade A
+2024-04-02,NTT,Perkebunan Rakyat,Fermentasi,1944.89,52828.25,Grade C
+2024-07-09,Bali,Perkebunan Negara,Penggilingan,1689.16,31810.1,Grade C
+2025-06-25,Bali,Perkebunan Rakyat,Pengeringan,1796.25,40263.25,Grade A
+2024-12-04,Jawa Barat,Perkebunan Negara,Penggilingan,1391.19,51740.93,Grade A
+2025-11-27,Bali,Perkebunan Rakyat,Pengeringan,328.23,45162.79,Grade C
+2024-01-26,Bali,Perkebunan Swasta,Pengeringan,1743.12,50972.1,Grade A
+2025-06-13,Jawa Timur,Perkebunan Negara,Pengeringan,1709.99,55549.97,Grade C
+2025-07-18,Jawa Barat,Perkebunan Swasta,Pengeringan,1581.66,32422.53,Grade B
+2025-10-23,Sumatera,Perkebunan Swasta,Pengeringan,1185.63,42891.56,Grade C
+2025-11-14,Jawa Timur,Perkebunan Swasta,Fermentasi,1173.37,42870.83,Grade C
+2025-08-02,NTT,Perkebunan Negara,Fermentasi,336.52,57795.53,Grade B
+2024-04-14,Bali,Perkebunan Rakyat,Pengeringan,1794.1,55719.21,Grade C
+2025-04-07,NTT,Perkebunan Negara,Pengeringan,1945.11,31095.53,Grade C
+2025-04-25,Jawa Timur,Perkebunan Negara,Roasting,1863.79,57216.79,Grade A
+2024-05-29,Jawa Barat,Perkebunan Swasta,Fermentasi,1867.64,44920.21,Grade A
+2025-01-11,Sumatera,Perkebunan Negara,Roasting,1736.63,29939.32,Grade C
+2024-09-01,Sumatera,Perkebunan Negara,Roasting,1190.64,26325.07,Grade A
+2025-07-03,NTT,Perkebunan Negara,Pengeringan,1021.92,37103.2,Grade C
+2024-12-29,Jawa Timur,Perkebunan Rakyat,Roasting,842.04,35757.12,Grade C
+2025-09-30,Sumatera,Perkebunan Negara,Fermentasi,563.91,58288.13,Grade B
+2024-10-30,Jawa Timur,Perkebunan Swasta,Pengeringan,1693.73,27357.86,Grade C
+2024-10-30,Sulawesi,Perkebunan Rakyat,Fermentasi,1950.03,44923.36,Grade A
+2025-04-16,Bali,Perkebunan Rakyat,Penggilingan,334.54,38249.68,Grade B
+2024-08-25,Sumatera,Perkebunan Negara,Roasting,1385.71,39031.01,Grade C
+2024-03-03,Sumatera,Perkebunan Swasta,Penggilingan,630.88,26190.01,Grade B
+2025-08-16,Jawa Timur,Perkebunan Rakyat,Penggilingan,1915.2,50838.74,Grade C
+2024-05-12,Jawa Barat,Perkebunan Negara,Fermentasi,250.08,54676.58,Grade B
+2024-04-02,Bali,Perkebunan Rakyat,Roasting,1771.66,35273.64,Grade B
+2024-04-14,Jawa Timur,Perkebunan Swasta,Fermentasi,990.9,41499.44,Grade A
+2024-09-06,Jawa Timur,Perkebunan Swasta,Roasting,463.28,47801.54,Grade C
+2024-05-03,Sulawesi,Perkebunan Negara,Roasting,489.43,34896.78,Grade C
+2025-05-09,Bali,Perkebunan Negara,Penggilingan,543.21,50954.25,Grade B
+2025-01-28,Bali,Perkebunan Negara,Penggilingan,1371.06,45826.64,Grade C
+2024-11-27,Jawa Barat,Perkebunan Rakyat,Roasting,449.33,40458.53,Grade A
+2024-12-23,Jawa Timur,Perkebunan Rakyat,Penggilingan,1688.54,54854.04,Grade A
+2025-12-23,Sumatera,Perkebunan Swasta,Fermentasi,1405.05,27961.69,Grade C
+2024-04-22,Jawa Barat,Perkebunan Negara,Penggilingan,973.44,45467.33,Grade B
+2024-04-16,Sulawesi,Perkebunan Swasta,Pengeringan,721.99,28699.42,Grade B
+2025-12-24,Sumatera,Perkebunan Negara,Pengeringan,1304.65,38423.33,Grade B
+2024-11-07,Jawa Barat,Perkebunan Negara,Penggilingan,1532.43,56715.01,Grade B
+2025-09-30,Bali,Perkebunan Negara,Fermentasi,1025.18,51928.11,Grade A
+2025-05-30,Sumatera,Perkebunan Negara,Pengeringan,1800.05,27793.0,Grade C
+2025-01-22,Jawa Barat,Perkebunan Swasta,Penggilingan,541.95,55642.68,Grade C
+2025-10-06,Bali,Perkebunan Rakyat,Penggilingan,401.3,46700.45,Grade B
+2025-11-25,Sumatera,Perkebunan Rakyat,Pengeringan,1614.37,29136.81,Grade B
+2024-02-10,Sulawesi,Perkebunan Swasta,Roasting,1249.3,44304.68,Grade B
+2024-11-18,Sulawesi,Perkebunan Swasta,Penggilingan,1110.81,40876.75,Grade C
+2024-05-27,Jawa Barat,Perkebunan Negara,Fermentasi,458.62,59612.15,Grade B
+2025-08-14,Sulawesi,Perkebunan Rakyat,Roasting,825.31,35887.83,Grade B
+2026-01-24,Sulawesi,Perkebunan Swasta,Roasting,1984.25,42799.71,Grade C
+2024-06-07,Sulawesi,Perkebunan Rakyat,Pengeringan,1738.68,43155.37,Grade B
+2025-10-27,Sumatera,Perkebunan Swasta,Fermentasi,1104.18,27224.39,Grade B
+2024-09-03,Jawa Barat,Perkebunan Swasta,Fermentasi,1978.13,55715.59,Grade B
+2024-06-24,Sulawesi,Perkebunan Swasta,Penggilingan,537.28,48121.63,Grade B
+2024-05-20,NTT,Perkebunan Rakyat,Roasting,266.48,54460.81,Grade C
+2025-10-28,Sulawesi,Perkebunan Rakyat,Pengeringan,1791.04,51154.67,Grade A
+2025-09-18,Sulawesi,Perkebunan Rakyat,Pengeringan,1768.24,41438.29,Grade A
+2024-08-03,Jawa Barat,Perkebunan Negara,Pengeringan,487.13,25964.29,Grade A
+2025-04-04,Sumatera,Perkebunan Rakyat,Roasting,597.44,57044.92,Grade B
+2024-11-20,Bali,Perkebunan Swasta,Roasting,1450.02,50945.13,Grade B
+2024-04-21,Bali,Perkebunan Swasta,Fermentasi,611.35,30755.83,Grade A
+2025-04-10,NTT,Perkebunan Swasta,Pengeringan,1321.04,33810.08,Grade C
+2025-11-26,Sulawesi,Perkebunan Negara,Roasting,1102.02,33746.86,Grade C
+2025-09-04,Jawa Barat,Perkebunan Negara,Penggilingan,1530.45,51484.82,Grade B
+2024-09-11,Sumatera,Perkebunan Rakyat,Fermentasi,511.89,41550.99,Grade A
+2025-08-12,NTT,Perkebunan Rakyat,Fermentasi,627.24,31796.66,Grade C
+2024-08-21,Jawa Timur,Perkebunan Rakyat,Pengeringan,614.39,50370.51,Grade A
+2024-02-10,Sumatera,Perkebunan Rakyat,Pengeringan,641.83,48015.94,Grade B
+2025-08-15,NTT,Perkebunan Swasta,Pengeringan,1525.47,35189.09,Grade C
+2025-01-07,Sumatera,Perkebunan Negara,Pengeringan,756.49,49178.07,Grade A
+2025-11-02,Sumatera,Perkebunan Swasta,Pengeringan,610.68,36147.45,Grade B
+2025-12-02,Bali,Perkebunan Rakyat,Pengeringan,226.33,45839.92,Grade C
+2025-12-24,NTT,Perkebunan Swasta,Pengeringan,1156.34,59882.82,Grade B
+2025-01-01,NTT,Perkebunan Negara,Pengeringan,1023.49,50644.38,Grade B
+2024-04-21,Bali,Perkebunan Negara,Roasting,452.36,44177.74,Grade A
+2024-04-25,Bali,Perkebunan Swasta,Roasting,911.26,42619.26,Grade A
+2024-09-05,Jawa Barat,Perkebunan Rakyat,Fermentasi,1049.56,45994.32,Grade B
+2024-12-10,Bali,Perkebunan Negara,Pengeringan,1423.1,38107.39,Grade B
+2024-01-29,NTT,Perkebunan Swasta,Fermentasi,524.67,47799.61,Grade C
+2025-02-24,Sulawesi,Perkebunan Negara,Roasting,1815.95,52595.22,Grade B
+2025-09-06,NTT,Perkebunan Rakyat,Fermentasi,210.53,34715.47,Grade C
+2024-08-23,Sulawesi,Perkebunan Negara,Penggilingan,1157.21,50678.83,Grade B
+2024-09-02,Sulawesi,Perkebunan Swasta,Penggilingan,1614.21,45307.05,Grade C
+2025-04-18,NTT,Perkebunan Rakyat,Fermentasi,802.57,53574.2,Grade B
+2025-03-18,Jawa Timur,Perkebunan Rakyat,Pengeringan,349.55,43922.08,Grade A
+2025-03-24,Jawa Barat,Perkebunan Swasta,Roasting,715.69,47532.32,Grade C
+2025-01-26,Sumatera,Perkebunan Rakyat,Pengeringan,536.98,52634.48,Grade C
+2024-03-05,Jawa Timur,Perkebunan Rakyat,Roasting,657.65,48198.74,Grade A
+2025-07-12,Sumatera,Perkebunan Swasta,Fermentasi,999.7,43449.98,Grade C
+2025-06-01,Sulawesi,Perkebunan Swasta,Roasting,1670.52,41067.98,Grade B
+2024-07-11,Bali,Perkebunan Negara,Penggilingan,1764.36,34027.79,Grade A
+2025-02-17,Sumatera,Perkebunan Negara,Roasting,269.5,50038.06,Grade B
+2024-03-21,NTT,Perkebunan Swasta,Pengeringan,1675.83,37378.48,Grade B
+2024-03-10,Jawa Barat,Perkebunan Rakyat,Fermentasi,1288.13,40530.72,Grade A
+2024-08-15,Sulawesi,Perkebunan Swasta,Pengeringan,709.06,50446.71,Grade A
+2024-08-05,Sulawesi,Perkebunan Negara,Fermentasi,1264.59,32909.53,Grade B
+2024-06-30,Sulawesi,Perkebunan Rakyat,Pengeringan,1171.59,28898.56,Grade A
+2024-09-19,Sulawesi,Perkebunan Swasta,Pengeringan,605.88,45476.14,Grade B
+2025-06-26,NTT,Perkebunan Negara,Penggilingan,1938.71,29008.19,Grade A
+2025-07-08,Bali,Perkebunan Swasta,Pengeringan,1693.99,43653.33,Grade A
+2025-10-28,Jawa Barat,Perkebunan Rakyat,Roasting,1758.54,30892.39,Grade C
+2024-10-08,Jawa Timur,Perkebunan Swasta,Fermentasi,208.37,57592.33,Grade A
+2024-04-27,Bali,Perkebunan Rakyat,Roasting,506.42,46022.91,Grade C
+2025-11-12,Jawa Barat,Perkebunan Swasta,Penggilingan,891.46,53177.67,Grade C
+2024-05-06,Jawa Timur,Perkebunan Swasta,Roasting,1166.38,44857.89,Grade C
+2024-06-28,Jawa Barat,Perkebunan Negara,Roasting,877.76,44086.78,Grade A
+2024-01-01,NTT,Perkebunan Rakyat,Penggilingan,319.03,54219.74,Grade C
+2024-10-30,Jawa Timur,Perkebunan Rakyat,Fermentasi,1424.88,55197.03,Grade C
+2024-06-10,Sulawesi,Perkebunan Negara,Roasting,532.81,45734.77,Grade B
+2024-02-06,Bali,Perkebunan Swasta,Fermentasi,340.78,52648.11,Grade C
+2025-12-23,Sulawesi,Perkebunan Swasta,Pengeringan,1510.96,58390.07,Grade C
+2025-05-26,NTT,Perkebunan Swasta,Pengeringan,1840.38,52584.23,Grade A
+2024-05-28,Sumatera,Perkebunan Negara,Roasting,920.85,44532.11,Grade A
+2024-03-21,Bali,Perkebunan Rakyat,Pengeringan,1884.72,26201.52,Grade B
+2024-12-01,Jawa Timur,Perkebunan Negara,Pengeringan,690.42,37475.71,Grade A
+2025-07-01,Jawa Timur,Perkebunan Swasta,Fermentasi,1273.88,45158.26,Grade A
+2026-01-07,Jawa Barat,Perkebunan Negara,Penggilingan,1212.69,33012.11,Grade A
+2025-07-14,Jawa Barat,Perkebunan Negara,Fermentasi,1978.96,56803.08,Grade C
+2024-03-27,Sulawesi,Perkebunan Swasta,Pengeringan,705.84,58734.14,Grade A
+2024-02-06,Bali,Perkebunan Swasta,Penggilingan,1185.09,46432.11,Grade A
+2025-04-26,Sumatera,Perkebunan Rakyat,Roasting,986.56,49602.22,Grade B
+2025-01-21,Jawa Timur,Perkebunan Negara,Penggilingan,1933.2,42888.06,Grade C
+2024-09-20,Sulawesi,Perkebunan Negara,Pengeringan,1938.57,49136.81,Grade C
+2024-12-28,NTT,Perkebunan Swasta,Pengeringan,953.26,49086.62,Grade B
+2024-04-23,Jawa Barat,Perkebunan Rakyat,Penggilingan,340.51,41856.06,Grade C
+2025-11-04,Bali,Perkebunan Swasta,Fermentasi,1656.37,39814.23,Grade B
+2025-06-08,NTT,Perkebunan Rakyat,Pengeringan,1698.81,40826.56,Grade C
+2025-08-16,Jawa Barat,Perkebunan Rakyat,Penggilingan,1152.77,37836.16,Grade C
+2024-07-12,NTT,Perkebunan Negara,Fermentasi,448.04,56213.98,Grade A
+2025-08-23,Jawa Barat,Perkebunan Negara,Roasting,627.83,42760.78,Grade A
+2026-01-07,Bali,Perkebunan Swasta,Roasting,1002.32,49563.41,Grade B
+2026-02-27,Sumatera,Perkebunan Swasta,Penggilingan,1648.15,28548.89,Grade C
+2024-07-01,Jawa Timur,Perkebunan Swasta,Penggilingan,1474.33,54287.76,Grade C
+2025-04-16,Jawa Timur,Perkebunan Rakyat,Pengeringan,893.39,39348.88,Grade B
+2025-06-01,Sumatera,Perkebunan Rakyat,Roasting,1417.53,45673.04,Grade C
+2024-06-04,Sulawesi,Perkebunan Negara,Roasting,964.64,54779.65,Grade B
+2026-01-26,Jawa Timur,Perkebunan Swasta,Pengeringan,1662.01,51555.3,Grade B
+2025-11-02,Sumatera,Perkebunan Rakyat,Pengeringan,1738.45,53029.19,Grade A
+2025-11-08,Sumatera,Perkebunan Rakyat,Pengeringan,1798.36,40061.13,Grade C
+2024-08-25,Sulawesi,Perkebunan Rakyat,Pengeringan,301.4,27737.81,Grade C
+2025-10-17,Jawa Barat,Perkebunan Swasta,Roasting,926.37,56578.39,Grade C
+2024-09-15,Sulawesi,Perkebunan Negara,Pengeringan,256.78,37478.38,Grade B
+2024-04-23,Jawa Barat,Perkebunan Rakyat,Penggilingan,272.66,51521.95,Grade C
+2025-01-23,Bali,Perkebunan Rakyat,Roasting,1201.56,49776.94,Grade A
+2025-04-10,Jawa Barat,Perkebunan Negara,Roasting,1737.38,56012.09,Grade A
+2025-12-01,Sumatera,Perkebunan Negara,Roasting,581.48,50987.86,Grade A
+2025-03-05,Bali,Perkebunan Rakyat,Penggilingan,676.18,43894.84,Grade A
+2024-11-10,Bali,Perkebunan Negara,Roasting,1369.58,52490.34,Grade C
+2025-07-17,Jawa Timur,Perkebunan Negara,Penggilingan,1657.62,30640.39,Grade C
+2025-03-30,Bali,Perkebunan Negara,Roasting,954.96,48748.74,Grade A
+2024-02-09,Jawa Barat,Perkebunan Swasta,Pengeringan,1201.28,30120.0,Grade C
+2025-04-28,Jawa Timur,Perkebunan Rakyat,Pengeringan,1506.47,39312.63,Grade C
+2024-06-23,Jawa Barat,Perkebunan Rakyat,Roasting,932.74,30667.97,Grade A
+2024-08-25,Jawa Barat,Perkebunan Negara,Fermentasi,1516.56,55430.28,Grade A
+2024-09-02,Jawa Timur,Perkebunan Negara,Fermentasi,510.95,33137.85,Grade C
+2025-08-17,Sulawesi,Perkebunan Swasta,Roasting,546.67,59486.51,Grade C
+2025-04-11,Jawa Barat,Perkebunan Negara,Penggilingan,319.98,32683.52,Grade C
+2024-01-24,Bali,Perkebunan Swasta,Roasting,1751.17,50935.68,Grade B
+2025-03-15,Sumatera,Perkebunan Negara,Pengeringan,1904.08,59281.81,Grade C
+2026-02-06,NTT,Perkebunan Negara,Penggilingan,1253.09,38627.22,Grade A
+2025-06-25,Bali,Perkebunan Swasta,Penggilingan,1797.97,55087.84,Grade B
+2026-01-28,NTT,Perkebunan Swasta,Fermentasi,342.45,52973.68,Grade C
+2025-08-23,Bali,Perkebunan Swasta,Penggilingan,724.17,27568.23,Grade A
+2024-07-14,Bali,Perkebunan Swasta,Pengeringan,1222.98,31340.39,Grade B
+2024-04-11,Bali,Perkebunan Negara,Penggilingan,517.88,35821.49,Grade C
+2025-08-22,Bali,Perkebunan Rakyat,Fermentasi,227.13,51877.57,Grade B
+2024-11-06,NTT,Perkebunan Rakyat,Pengeringan,1484.26,26371.33,Grade A
+2025-03-17,Bali,Perkebunan Rakyat,Penggilingan,1024.77,45662.25,Grade C
+2024-06-13,Jawa Barat,Perkebunan Rakyat,Fermentasi,1604.55,54285.53,Grade A
+2025-10-20,Sulawesi,Perkebunan Swasta,Penggilingan,1234.38,39886.74,Grade A
+2025-05-15,Jawa Timur,Perkebunan Swasta,Penggilingan,1005.71,38074.28,Grade B
+2025-03-28,Sulawesi,Perkebunan Swasta,Fermentasi,1363.81,59055.69,Grade A
+2025-11-12,Sulawesi,Perkebunan Negara,Pengeringan,1419.51,42861.39,Grade A
+2024-08-03,NTT,Perkebunan Negara,Pengeringan,362.72,34156.02,Grade A
+2024-05-12,Bali,Perkebunan Swasta,Fermentasi,644.35,54065.66,Grade B
+2025-06-28,Sumatera,Perkebunan Negara,Roasting,1136.43,32204.62,Grade A
+2025-04-13,Sumatera,Perkebunan Swasta,Roasting,388.99,48756.15,Grade B
+2025-08-19,Jawa Timur,Perkebunan Negara,Pengeringan,1741.53,38839.1,Grade C
+2025-12-06,Bali,Perkebunan Swasta,Roasting,681.79,51422.22,Grade B
+2025-09-06,Jawa Timur,Perkebunan Rakyat,Penggilingan,1424.68,58329.18,Grade C
+2024-01-18,Sumatera,Perkebunan Rakyat,Roasting,1317.22,51669.08,Grade C
+2025-03-31,Jawa Barat,Perkebunan Negara,Fermentasi,328.15,31787.54,Grade B
+2025-02-27,Sulawesi,Perkebunan Rakyat,Roasting,775.52,42278.33,Grade A
+2025-07-26,Bali,Perkebunan Rakyat,Pengeringan,1012.02,47752.36,Grade A
+2026-01-29,Jawa Barat,Perkebunan Negara,Fermentasi,1622.0,46716.25,Grade A
+2024-01-05,Bali,Perkebunan Rakyat,Roasting,873.87,46597.95,Grade C
+2024-09-02,Jawa Barat,Perkebunan Rakyat,Fermentasi,932.25,44656.16,Grade B
+2025-03-02,Jawa Barat,Perkebunan Swasta,Fermentasi,392.42,53841.17,Grade C
+2025-01-17,Sumatera,Perkebunan Swasta,Roasting,1920.64,42146.68,Grade B
+2025-01-03,Sumatera,Perkebunan Swasta,Roasting,493.4,56327.3,Grade B
+2025-10-17,Jawa Timur,Perkebunan Swasta,Penggilingan,1280.0,48012.36,Grade A
+2025-12-22,Bali,Perkebunan Negara,Penggilingan,1991.13,25179.86,Grade B
+2024-11-16,Jawa Timur,Perkebunan Swasta,Roasting,614.38,58531.68,Grade B
+2025-08-31,Jawa Timur,Perkebunan Negara,Penggilingan,1623.75,39984.37,Grade A
+2025-02-21,Sumatera,Perkebunan Rakyat,Roasting,1531.2,29010.12,Grade B
+2025-03-19,Jawa Timur,Perkebunan Negara,Penggilingan,1242.97,40088.31,Grade A
+2024-12-28,NTT,Perkebunan Swasta,Pengeringan,491.28,30958.66,Grade B
+2026-01-25,Jawa Barat,Perkebunan Swasta,Pengeringan,564.41,25413.67,Grade A
+2025-03-16,Sumatera,Perkebunan Swasta,Fermentasi,1410.63,31510.05,Grade A
+2024-12-17,NTT,Perkebunan Swasta,Penggilingan,833.99,33614.26,Grade C
+2025-06-04,Sulawesi,Perkebunan Rakyat,Roasting,362.19,38888.9,Grade A
+2025-07-31,Jawa Timur,Perkebunan Negara,Pengeringan,1384.29,56290.96,Grade A
+2024-04-07,Sulawesi,Perkebunan Swasta,Pengeringan,839.81,32170.56,Grade C
+2024-03-02,Sulawesi,Perkebunan Rakyat,Pengeringan,427.79,43236.02,Grade B
+2024-05-24,Jawa Barat,Perkebunan Swasta,Pengeringan,206.68,49939.53,Grade C
+2025-03-16,Jawa Timur,Perkebunan Swasta,Roasting,344.61,34165.35,Grade A
+2024-10-10,Sumatera,Perkebunan Swasta,Pengeringan,1954.15,28164.31,Grade C
+2025-01-21,Sulawesi,Perkebunan Negara,Roasting,1146.47,45650.52,Grade B
+2025-05-21,NTT,Perkebunan Negara,Fermentasi,1197.74,44956.99,Grade C
+2025-04-16,Jawa Barat,Perkebunan Negara,Fermentasi,266.76,32333.96,Grade C
+2025-05-29,Sumatera,Perkebunan Rakyat,Penggilingan,1149.33,40039.32,Grade C
+2025-04-02,Jawa Timur,Perkebunan Rakyat,Fermentasi,810.71,45220.66,Grade B
+2025-02-28,Jawa Barat,Perkebunan Negara,Penggilingan,1997.32,38510.23,Grade B
+2024-12-24,Bali,Perkebunan Negara,Fermentasi,1141.94,37442.89,Grade A
+2025-11-21,Sumatera,Perkebunan Negara,Pengeringan,1558.51,26334.67,Grade C
+2024-08-04,Bali,Perkebunan Swasta,Pengeringan,557.2,46936.45,Grade A
+2024-02-01,Jawa Timur,Perkebunan Swasta,Penggilingan,1357.2,55749.73,Grade A
+2025-04-14,Jawa Timur,Perkebunan Rakyat,Fermentasi,1128.64,52591.54,Grade C
+2024-07-19,Jawa Timur,Perkebunan Negara,Fermentasi,627.43,31445.96,Grade A
+2024-02-24,Jawa Barat,Perkebunan Negara,Fermentasi,1655.6,26367.52,Grade C
+2025-07-06,Bali,Perkebunan Swasta,Pengeringan,488.46,27266.14,Grade C
+2025-02-07,Sulawesi,Perkebunan Rakyat,Penggilingan,1578.22,41927.22,Grade B
+2025-11-25,Jawa Barat,Perkebunan Swasta,Penggilingan,1391.78,32707.22,Grade C
+2025-05-20,Sulawesi,Perkebunan Swasta,Pengeringan,1088.4,54071.94,Grade B
+2025-02-10,Sumatera,Perkebunan Swasta,Roasting,596.98,37279.27,Grade B
+2024-01-30,Sulawesi,Perkebunan Negara,Roasting,1790.98,59151.73,Grade A
+2024-09-09,Jawa Barat,Perkebunan Negara,Pengeringan,1750.4,53254.83,Grade B
+2024-07-06,Sumatera,Perkebunan Swasta,Pengeringan,692.53,42618.61,Grade A
+2025-08-27,Sulawesi,Perkebunan Negara,Penggilingan,1386.4,37743.25,Grade C
+2025-01-04,Jawa Timur,Perkebunan Negara,Fermentasi,1726.71,37260.92,Grade A
+2025-05-06,Jawa Barat,Perkebunan Negara,Pengeringan,949.82,48073.45,Grade A
+2024-03-06,Jawa Timur,Perkebunan Swasta,Fermentasi,1527.49,55414.05,Grade C
+2025-08-16,Jawa Barat,Perkebunan Negara,Pengeringan,516.86,41825.68,Grade A
+2024-05-13,Jawa Timur,Perkebunan Rakyat,Roasting,833.97,41060.1,Grade A
+2025-05-01,Sumatera,Perkebunan Rakyat,Pengeringan,395.3,48441.9,Grade B
+2024-03-22,Sumatera,Perkebunan Negara,Fermentasi,304.21,48991.47,Grade C
+2024-12-01,Bali,Perkebunan Swasta,Penggilingan,810.38,50654.05,Grade B
+2024-05-05,Jawa Timur,Perkebunan Negara,Pengeringan,716.81,52030.77,Grade B
+2025-03-27,Jawa Barat,Perkebunan Rakyat,Roasting,403.8,40085.8,Grade A
+2025-08-06,Sulawesi,Perkebunan Rakyat,Fermentasi,414.27,53850.77,Grade C
+2024-09-03,Bali,Perkebunan Swasta,Penggilingan,1726.31,46110.11,Grade B
+2024-03-20,Sulawesi,Perkebunan Rakyat,Penggilingan,958.44,42827.84,Grade C
+2024-01-09,Jawa Timur,Perkebunan Rakyat,Pengeringan,1628.39,34097.49,Grade A
+2024-07-13,Sulawesi,Perkebunan Negara,Roasting,1982.86,43950.6,Grade C
+2024-04-06,Jawa Barat,Perkebunan Swasta,Roasting,1523.28,52527.88,Grade C
+2024-02-15,Sulawesi,Perkebunan Negara,Pengeringan,473.19,34087.75,Grade C
+2024-08-21,Jawa Timur,Perkebunan Swasta,Pengeringan,1802.35,37194.86,Grade C
+2025-09-15,Sulawesi,Perkebunan Swasta,Fermentasi,700.67,37340.78,Grade B
+2025-12-19,Jawa Timur,Perkebunan Negara,Penggilingan,491.08,47211.78,Grade A
+2024-08-19,NTT,Perkebunan Swasta,Roasting,759.21,27477.58,Grade C
+2025-09-10,Jawa Barat,Perkebunan Negara,Penggilingan,1567.78,30869.44,Grade B
+2024-07-13,NTT,Perkebunan Negara,Roasting,1819.91,30407.21,Grade C
+2025-09-11,NTT,Perkebunan Negara,Roasting,922.2,48108.36,Grade C
+2026-01-08,Sumatera,Perkebunan Rakyat,Pengeringan,1002.8,41671.57,Grade A
+2025-02-26,Sulawesi,Perkebunan Rakyat,Penggilingan,1531.18,50679.14,Grade B
+2025-12-19,Jawa Timur,Perkebunan Swasta,Penggilingan,1684.86,52819.71,Grade B
+2025-09-17,Sulawesi,Perkebunan Negara,Roasting,785.23,36891.53,Grade B
+2024-12-13,Jawa Timur,Perkebunan Swasta,Fermentasi,1554.84,47810.82,Grade A
+2025-06-18,NTT,Perkebunan Swasta,Fermentasi,1511.13,34691.71,Grade C
+2024-12-03,Sulawesi,Perkebunan Rakyat,Penggilingan,1225.82,55251.36,Grade C
+2024-05-05,NTT,Perkebunan Negara,Roasting,1804.19,31628.58,Grade C
+2025-12-15,Sulawesi,Perkebunan Swasta,Roasting,1621.6,48443.27,Grade B
+2024-10-17,Sumatera,Perkebunan Negara,Penggilingan,1552.39,40789.42,Grade B
+2025-07-07,NTT,Perkebunan Swasta,Fermentasi,1978.9,33576.25,Grade C
+2024-05-09,NTT,Perkebunan Negara,Penggilingan,779.58,56035.5,Grade B
+2024-09-26,Jawa Timur,Perkebunan Negara,Roasting,1965.33,38085.57,Grade C
+2024-10-22,Jawa Timur,Perkebunan Negara,Roasting,1469.78,29646.66,Grade B
+2026-02-09,NTT,Perkebunan Swasta,Fermentasi,1899.63,39105.13,Grade C
+2024-01-31,Jawa Barat,Perkebunan Rakyat,Fermentasi,415.38,37058.84,Grade A
+2024-07-09,Jawa Barat,Perkebunan Swasta,Fermentasi,761.43,26030.9,Grade A
+2024-03-21,Jawa Timur,Perkebunan Swasta,Pengeringan,1218.22,26479.62,Grade B
+2025-05-29,NTT,Perkebunan Negara,Fermentasi,462.76,38303.72,Grade A
+2025-10-10,Sumatera,Perkebunan Negara,Penggilingan,1119.62,46066.25,Grade B
+2024-08-26,Jawa Timur,Perkebunan Swasta,Penggilingan,538.77,59247.35,Grade C
+2025-05-09,Jawa Barat,Perkebunan Negara,Roasting,1100.05,31003.6,Grade A
+2024-04-29,NTT,Perkebunan Rakyat,Fermentasi,957.86,34628.06,Grade A
+2025-12-29,NTT,Perkebunan Negara,Roasting,982.21,48945.27,Grade C
+2024-08-03,NTT,Perkebunan Negara,Roasting,358.93,52355.43,Grade A
+2024-08-11,Jawa Barat,Perkebunan Rakyat,Roasting,1187.02,47305.97,Grade A
+2025-05-15,Sulawesi,Perkebunan Rakyat,Fermentasi,492.56,47075.78,Grade C
+2025-01-20,Jawa Barat,Perkebunan Negara,Roasting,488.93,27496.46,Grade B
+2024-03-27,Sulawesi,Perkebunan Swasta,Fermentasi,1833.6,43000.9,Grade C
+2024-07-27,NTT,Perkebunan Swasta,Penggilingan,1865.45,47718.69,Grade C
+2025-06-11,Jawa Barat,Perkebunan Negara,Penggilingan,895.35,57788.21,Grade A
+2024-12-19,Bali,Perkebunan Rakyat,Pengeringan,1459.88,27974.26,Grade A
+2024-04-15,Sulawesi,Perkebunan Negara,Penggilingan,1568.24,36960.9,Grade C
+2024-02-27,Bali,Perkebunan Swasta,Pengeringan,1106.83,29561.16,Grade B
+2025-06-28,Jawa Timur,Perkebunan Rakyat,Penggilingan,330.98,32450.09,Grade A
+2024-04-28,NTT,Perkebunan Swasta,Fermentasi,453.96,39084.92,Grade A
+2025-06-12,NTT,Perkebunan Rakyat,Fermentasi,439.09,36087.95,Grade C
+2024-07-02,NTT,Perkebunan Rakyat,Penggilingan,1772.7,33343.94,Grade C
+2025-02-19,Sulawesi,Perkebunan Rakyat,Fermentasi,391.98,35779.87,Grade C
+2024-10-26,Jawa Timur,Perkebunan Rakyat,Roasting,1359.55,44374.02,Grade B
+2024-01-09,Sumatera,Perkebunan Rakyat,Pengeringan,1521.29,44589.16,Grade C
+2024-11-05,Jawa Barat,Perkebunan Swasta,Pengeringan,1406.86,45701.06,Grade A
+2025-06-10,Sumatera,Perkebunan Swasta,Fermentasi,1837.58,56926.54,Grade A
+2024-04-26,Bali,Perkebunan Swasta,Pengeringan,1784.69,46744.25,Grade C
+2025-04-01,Jawa Timur,Perkebunan Negara,Roasting,767.37,52921.52,Grade C
+2025-04-12,Jawa Timur,Perkebunan Rakyat,Fermentasi,388.29,41843.64,Grade B
+2024-09-06,Sulawesi,Perkebunan Negara,Penggilingan,1702.15,44792.41,Grade C
+2024-12-18,NTT,Perkebunan Rakyat,Penggilingan,1377.92,26810.88,Grade B
+2025-03-24,Sulawesi,Perkebunan Swasta,Pengeringan,218.48,33905.11,Grade A
+2025-08-01,NTT,Perkebunan Rakyat,Fermentasi,986.53,29458.9,Grade B
+2024-12-09,Sulawesi,Perkebunan Negara,Roasting,1047.67,36951.4,Grade B
+2024-07-31,NTT,Perkebunan Swasta,Penggilingan,732.0,40637.39,Grade C
+2025-04-29,Bali,Perkebunan Negara,Fermentasi,861.77,40383.08,Grade C
+2024-08-21,Jawa Barat,Perkebunan Swasta,Penggilingan,1433.54,27638.76,Grade B
+2024-06-19,Sumatera,Perkebunan Negara,Penggilingan,881.21,58578.46,Grade C
+2025-07-19,Jawa Barat,Perkebunan Swasta,Penggilingan,1185.08,50098.61,Grade B
+2025-02-02,NTT,Perkebunan Swasta,Penggilingan,1421.38,45672.52,Grade B
+2024-10-31,Sumatera,Perkebunan Negara,Fermentasi,1203.51,51375.5,Grade B
+2025-06-25,Sumatera,Perkebunan Rakyat,Penggilingan,1597.16,54193.42,Grade B
+2026-02-13,Sumatera,Perkebunan Rakyat,Fermentasi,1362.24,40666.78,Grade C
+2024-10-02,Sulawesi,Perkebunan Swasta,Penggilingan,1209.73,26279.49,Grade A
+2025-02-15,Sumatera,Perkebunan Negara,Penggilingan,573.68,52883.26,Grade B
+2025-10-06,NTT,Perkebunan Swasta,Penggilingan,376.94,58953.21,Grade B
+2025-01-26,Jawa Timur,Perkebunan Rakyat,Pengeringan,903.87,48734.72,Grade A
+2024-01-08,Jawa Barat,Perkebunan Negara,Fermentasi,1144.61,34290.78,Grade B
+2024-10-26,NTT,Perkebunan Rakyat,Penggilingan,277.25,40424.02,Grade A
+2025-11-16,NTT,Perkebunan Negara,Roasting,1910.9,35268.33,Grade A
+2024-08-30,Sumatera,Perkebunan Negara,Roasting,531.31,45688.07,Grade C
+2025-05-28,Sumatera,Perkebunan Swasta,Pengeringan,944.98,47659.99,Grade A
+2024-06-27,Jawa Timur,Perkebunan Negara,Pengeringan,1682.75,25441.74,Grade B
+2024-06-22,Bali,Perkebunan Swasta,Penggilingan,1258.92,54692.11,Grade B
+2024-04-12,Sumatera,Perkebunan Rakyat,Penggilingan,1751.18,31201.01,Grade C
+2025-01-06,Jawa Timur,Perkebunan Rakyat,Roasting,732.04,25662.34,Grade B
+2025-11-26,NTT,Perkebunan Rakyat,Fermentasi,1263.95,32579.95,Grade C
+2024-01-10,Jawa Barat,Perkebunan Rakyat,Fermentasi,1382.79,58734.81,Grade B
+2024-06-11,Sulawesi,Perkebunan Swasta,Roasting,224.45,53686.2,Grade C
+2025-06-07,Jawa Barat,Perkebunan Negara,Roasting,1120.82,33829.55,Grade A
+2024-04-03,Jawa Barat,Perkebunan Negara,Pengeringan,562.25,35746.69,Grade B
+2024-02-10,NTT,Perkebunan Rakyat,Roasting,780.23,55391.7,Grade A
+2024-11-24,Bali,Perkebunan Negara,Fermentasi,1452.38,45666.55,Grade B
+2024-11-09,Jawa Barat,Perkebunan Negara,Roasting,1559.36,45870.46,Grade B
+2025-12-06,Bali,Perkebunan Rakyat,Roasting,603.08,58026.87,Grade C
+2024-11-20,NTT,Perkebunan Negara,Penggilingan,253.75,55288.34,Grade C
+2024-06-02,Bali,Perkebunan Negara,Pengeringan,1907.9,45763.45,Grade B
+2024-12-20,NTT,Perkebunan Negara,Fermentasi,731.06,48495.38,Grade C
+2026-01-11,Jawa Barat,Perkebunan Rakyat,Roasting,1516.37,26043.28,Grade A
+2025-06-03,Sulawesi,Perkebunan Negara,Fermentasi,674.56,59212.82,Grade B
+2024-01-06,Jawa Timur,Perkebunan Rakyat,Roasting,641.94,33665.6,Grade B
+2025-06-21,Sumatera,Perkebunan Swasta,Pengeringan,1496.2,51030.84,Grade A
+2026-02-02,NTT,Perkebunan Swasta,Penggilingan,1257.56,45473.89,Grade A
+2024-04-13,Sulawesi,Perkebunan Negara,Penggilingan,1232.27,38931.08,Grade B
+2024-03-16,Jawa Timur,Perkebunan Rakyat,Fermentasi,741.45,25143.56,Grade C
+2024-11-17,Sumatera,Perkebunan Rakyat,Penggilingan,369.14,58378.01,Grade C
+2024-01-23,Sulawesi,Perkebunan Rakyat,Penggilingan,1349.86,35390.06,Grade B
+2026-01-07,Sumatera,Perkebunan Negara,Penggilingan,1873.47,43120.15,Grade B
+2024-08-12,Jawa Barat,Perkebunan Swasta,Penggilingan,1427.43,52057.8,Grade B
+2024-07-28,Bali,Perkebunan Rakyat,Roasting,1022.69,47354.59,Grade B
+2025-07-17,Bali,Perkebunan Swasta,Roasting,1138.15,47190.47,Grade A
+2024-07-13,Jawa Barat,Perkebunan Swasta,Fermentasi,1114.34,54423.04,Grade A
+2025-12-22,Bali,Perkebunan Swasta,Pengeringan,630.65,45872.28,Grade A
+2024-11-11,Jawa Barat,Perkebunan Rakyat,Fermentasi,1919.18,43195.37,Grade A
+2024-10-23,NTT,Perkebunan Swasta,Fermentasi,625.15,27673.78,Grade C
+2025-08-14,NTT,Perkebunan Swasta,Pengeringan,1556.54,49301.03,Grade A
+2024-07-21,Sumatera,Perkebunan Swasta,Fermentasi,776.7,43060.03,Grade B
+2024-02-18,Jawa Timur,Perkebunan Rakyat,Fermentasi,1876.05,30734.7,Grade C
+2024-02-06,Sulawesi,Perkebunan Swasta,Penggilingan,1106.95,31802.38,Grade C
+2024-11-10,Sulawesi,Perkebunan Negara,Penggilingan,1500.48,53227.24,Grade B
+2025-11-23,Bali,Perkebunan Negara,Pengeringan,647.35,57483.59,Grade A
+2025-09-02,Bali,Perkebunan Rakyat,Penggilingan,1567.25,48757.41,Grade C
+2026-02-19,NTT,Perkebunan Rakyat,Penggilingan,1159.11,33707.1,Grade B
+2026-01-29,Sulawesi,Perkebunan Swasta,Roasting,880.21,45689.92,Grade C
+2024-10-29,Sumatera,Perkebunan Swasta,Penggilingan,460.28,30053.29,Grade A
+2024-09-13,Sulawesi,Perkebunan Rakyat,Penggilingan,1270.71,39739.89,Grade A
+2026-01-08,Jawa Barat,Perkebunan Rakyat,Roasting,654.86,55878.24,Grade A
+2025-03-04,NTT,Perkebunan Rakyat,Roasting,694.72,36967.56,Grade A
+2025-09-16,Jawa Timur,Perkebunan Negara,Pengeringan,341.45,40668.85,Grade C
+2024-03-11,Sulawesi,Perkebunan Negara,Fermentasi,226.66,51256.46,Grade A
+2025-06-20,Bali,Perkebunan Negara,Penggilingan,1741.28,57463.29,Grade B
+2024-02-26,NTT,Perkebunan Swasta,Penggilingan,1040.58,54529.23,Grade B
+2025-08-12,NTT,Perkebunan Rakyat,Roasting,889.94,52227.56,Grade A
+2025-04-10,Jawa Timur,Perkebunan Negara,Roasting,1606.59,30320.24,Grade A
+2025-12-15,Sulawesi,Perkebunan Swasta,Fermentasi,1759.7,31353.46,Grade C
+2025-05-21,Sumatera,Perkebunan Negara,Fermentasi,1076.18,38366.77,Grade B
+2024-09-09,Jawa Timur,Perkebunan Rakyat,Roasting,349.85,35494.88,Grade B
+2025-05-09,NTT,Perkebunan Negara,Pengeringan,1863.06,36514.98,Grade C
+2024-08-10,Bali,Perkebunan Negara,Fermentasi,1185.64,27350.04,Grade A
+2024-03-11,Jawa Timur,Perkebunan Swasta,Roasting,1450.53,25359.56,Grade B
+2024-08-10,Bali,Perkebunan Rakyat,Penggilingan,1745.19,47602.38,Grade B
+2024-10-05,NTT,Perkebunan Swasta,Pengeringan,500.62,48000.05,Grade C
+2025-10-07,Bali,Perkebunan Rakyat,Pengeringan,1632.28,39382.19,Grade C
+2024-08-10,NTT,Perkebunan Swasta,Fermentasi,1420.53,58231.61,Grade C
+2025-08-20,Jawa Barat,Perkebunan Rakyat,Penggilingan,1847.2,58742.99,Grade C
+2024-10-07,Sulawesi,Perkebunan Rakyat,Fermentasi,596.78,37427.26,Grade B
+2025-11-27,NTT,Perkebunan Rakyat,Pengeringan,1668.66,34106.35,Grade C
+2025-05-29,Sulawesi,Perkebunan Rakyat,Penggilingan,1939.47,28420.97,Grade A
+2026-02-15,Sulawesi,Perkebunan Swasta,Fermentasi,564.53,43136.2,Grade B
+2024-07-01,Jawa Barat,Perkebunan Rakyat,Penggilingan,1984.87,58068.16,Grade A
+2025-12-07,Jawa Timur,Perkebunan Rakyat,Pengeringan,1130.09,46424.77,Grade B
+2025-01-09,Sumatera,Perkebunan Rakyat,Fermentasi,1662.92,34088.54,Grade A
+2024-03-28,Bali,Perkebunan Swasta,Roasting,883.35,58862.29,Grade B
+2024-11-26,Sulawesi,Perkebunan Swasta,Fermentasi,582.43,26330.61,Grade B
+2024-01-13,Jawa Timur,Perkebunan Rakyat,Roasting,1460.54,43137.05,Grade C
+2025-05-28,Bali,Perkebunan Swasta,Roasting,1331.38,54544.31,Grade A
+2026-01-19,Jawa Barat,Perkebunan Swasta,Penggilingan,1366.59,47547.39,Grade A
+2024-11-15,Sumatera,Perkebunan Negara,Fermentasi,1795.76,25251.4,Grade A
+2025-06-18,Jawa Timur,Perkebunan Rakyat,Fermentasi,1964.57,44922.88,Grade B
+2024-01-01,Jawa Barat,Perkebunan Swasta,Penggilingan,802.2,40678.66,Grade B
+2025-09-11,Sulawesi,Perkebunan Negara,Fermentasi,1537.77,57719.5,Grade C
+2024-05-07,NTT,Perkebunan Rakyat,Penggilingan,1976.2,39009.53,Grade B
+2024-05-09,Jawa Barat,Perkebunan Negara,Fermentasi,671.16,50462.14,Grade A
+2024-11-26,Bali,Perkebunan Rakyat,Pengeringan,292.81,52739.74,Grade A
+2024-06-03,Sulawesi,Perkebunan Rakyat,Penggilingan,1184.68,26919.84,Grade A
+2025-05-12,Jawa Barat,Perkebunan Swasta,Roasting,288.03,43849.81,Grade A
+2024-02-06,Jawa Barat,Perkebunan Swasta,Pengeringan,661.29,29407.21,Grade C
+2025-02-19,Sulawesi,Perkebunan Negara,Pengeringan,1531.13,29594.69,Grade B
+2024-11-15,Bali,Perkebunan Swasta,Pengeringan,1122.41,44542.94,Grade B
+2024-10-11,Sulawesi,Perkebunan Negara,Penggilingan,1491.78,34980.99,Grade C
+2025-08-01,NTT,Perkebunan Swasta,Penggilingan,347.31,39666.28,Grade B
+2024-03-09,Sulawesi,Perkebunan Rakyat,Penggilingan,386.0,30989.28,Grade C
+2025-10-25,Jawa Timur,Perkebunan Rakyat,Roasting,208.75,26913.08,Grade C
+2025-03-31,Bali,Perkebunan Rakyat,Penggilingan,882.54,56352.57,Grade A
+2024-03-05,Bali,Perkebunan Negara,Pengeringan,626.27,32413.36,Grade A
+2025-06-19,Jawa Timur,Perkebunan Negara,Penggilingan,962.75,52224.52,Grade B
+2025-01-10,NTT,Perkebunan Negara,Penggilingan,1277.95,52192.38,Grade B
+2024-12-22,Sumatera,Perkebunan Rakyat,Pengeringan,1582.57,51296.35,Grade C
+2025-11-10,Jawa Barat,Perkebunan Swasta,Roasting,996.48,48011.08,Grade B
+2024-06-23,NTT,Perkebunan Negara,Roasting,420.4,32408.24,Grade A
+2025-03-18,Sumatera,Perkebunan Rakyat,Penggilingan,908.75,44828.28,Grade A
+2025-06-01,Sulawesi,Perkebunan Negara,Fermentasi,1063.17,28337.05,Grade A
+2026-01-11,Bali,Perkebunan Negara,Penggilingan,1844.34,53318.23,Grade A
+2024-05-31,Sumatera,Perkebunan Swasta,Pengeringan,1725.83,37322.05,Grade C
+2025-08-15,Sulawesi,Perkebunan Swasta,Roasting,1323.01,59225.33,Grade C
+2024-06-07,Sumatera,Perkebunan Negara,Penggilingan,1615.68,49700.2,Grade B
+2025-12-06,Jawa Timur,Perkebunan Negara,Roasting,696.34,58468.02,Grade A
+2025-06-07,Jawa Barat,Perkebunan Swasta,Penggilingan,444.67,37201.79,Grade B
+2024-02-25,Jawa Barat,Perkebunan Rakyat,Penggilingan,1078.43,41456.95,Grade C
+2025-08-25,NTT,Perkebunan Rakyat,Penggilingan,503.66,35527.44,Grade B
+2024-07-08,Jawa Barat,Perkebunan Swasta,Fermentasi,1972.92,59098.81,Grade C
+2025-04-19,Bali,Perkebunan Negara,Penggilingan,1502.8,26133.14,Grade B
+2024-02-03,Bali,Perkebunan Swasta,Pengeringan,1658.55,33248.89,Grade B
+2025-10-14,Sulawesi,Perkebunan Rakyat,Pengeringan,834.34,57975.78,Grade C
+2025-03-23,Sumatera,Perkebunan Negara,Fermentasi,1770.51,39529.04,Grade A
+2024-05-28,Sulawesi,Perkebunan Swasta,Roasting,447.22,38385.0,Grade B
+2025-08-20,Jawa Timur,Perkebunan Swasta,Penggilingan,1309.96,30986.38,Grade A
+2024-07-29,Sumatera,Perkebunan Rakyat,Penggilingan,1961.87,29819.53,Grade A
+2025-04-09,NTT,Perkebunan Swasta,Penggilingan,289.69,52045.43,Grade B
+2025-01-25,Sumatera,Perkebunan Rakyat,Penggilingan,949.94,58429.2,Grade B
+2025-11-04,NTT,Perkebunan Swasta,Penggilingan,572.66,56120.56,Grade C
+2024-01-27,Jawa Barat,Perkebunan Swasta,Fermentasi,627.23,37453.35,Grade C
+2024-12-09,Bali,Perkebunan Negara,Fermentasi,659.76,26989.97,Grade B
+2024-09-12,Jawa Timur,Perkebunan Swasta,Pengeringan,842.49,32414.86,Grade B
+2024-03-09,Jawa Timur,Perkebunan Swasta,Roasting,742.86,32291.49,Grade C
+2024-04-02,Jawa Barat,Perkebunan Swasta,Pengeringan,1325.37,25619.69,Grade B
+2024-01-23,Jawa Barat,Perkebunan Rakyat,Pengeringan,864.23,29317.79,Grade B
+2024-04-14,Jawa Barat,Perkebunan Swasta,Fermentasi,1367.82,49872.52,Grade B
+2025-09-17,Sulawesi,Perkebunan Negara,Roasting,1823.83,56484.73,Grade A
+2025-12-05,Jawa Timur,Perkebunan Swasta,Pengeringan,909.8,36938.28,Grade A
+2025-01-09,Jawa Barat,Perkebunan Swasta,Fermentasi,311.51,36787.5,Grade C
+2024-04-26,Jawa Timur,Perkebunan Rakyat,Pengeringan,1684.0,55407.51,Grade B
+2025-09-12,Bali,Perkebunan Negara,Pengeringan,309.15,41442.55,Grade C
+2025-07-18,Jawa Timur,Perkebunan Swasta,Roasting,634.74,41391.72,Grade A
+2025-07-07,Bali,Perkebunan Negara,Fermentasi,753.85,44270.97,Grade B
+2025-05-03,Sumatera,Perkebunan Swasta,Penggilingan,647.95,47275.01,Grade C
+2024-01-14,Sulawesi,Perkebunan Rakyat,Penggilingan,217.31,35139.28,Grade A
+2024-12-04,Jawa Barat,Perkebunan Swasta,Roasting,1008.42,49675.8,Grade C
+2025-08-27,NTT,Perkebunan Negara,Pengeringan,295.49,49370.41,Grade C
+2024-03-14,Bali,Perkebunan Negara,Penggilingan,923.57,58155.07,Grade C
+2026-02-04,Bali,Perkebunan Rakyat,Roasting,1649.48,46188.38,Grade A
+2025-11-13,Jawa Timur,Perkebunan Negara,Roasting,999.47,36916.86,Grade A
+2026-01-09,Sulawesi,Perkebunan Rakyat,Fermentasi,982.58,52807.9,Grade C
+2025-11-14,Jawa Barat,Perkebunan Swasta,Fermentasi,605.6,47113.0,Grade C
+2026-01-08,Jawa Barat,Perkebunan Negara,Fermentasi,1616.3,48094.72,Grade C
+2024-02-14,Sumatera,Perkebunan Rakyat,Pengeringan,377.82,59920.61,Grade C
+2025-05-14,Jawa Barat,Perkebunan Swasta,Penggilingan,894.49,31084.86,Grade A
+2024-12-04,Bali,Perkebunan Rakyat,Fermentasi,1662.1,57240.42,Grade C
+2024-06-09,Bali,Perkebunan Swasta,Penggilingan,513.17,37095.36,Grade B
+2025-09-20,Bali,Perkebunan Rakyat,Pengeringan,1148.65,38023.76,Grade B
+2024-10-01,Jawa Barat,Perkebunan Negara,Roasting,1147.6,38144.61,Grade B
+2025-09-20,Jawa Barat,Perkebunan Rakyat,Pengeringan,1530.05,58706.62,Grade A
+2024-01-16,Bali,Perkebunan Rakyat,Roasting,605.01,25497.62,Grade A
+2025-05-06,NTT,Perkebunan Negara,Penggilingan,1079.36,29048.1,Grade C
+2025-10-26,Jawa Timur,Perkebunan Swasta,Pengeringan,1986.39,39295.39,Grade A
+2024-04-23,Jawa Timur,Perkebunan Rakyat,Roasting,574.42,26158.67,Grade A
+2024-06-07,Jawa Timur,Perkebunan Swasta,Penggilingan,1453.06,58096.35,Grade B
+2024-12-29,Jawa Timur,Perkebunan Swasta,Penggilingan,1345.12,29812.2,Grade A
+2026-01-11,Jawa Barat,Perkebunan Swasta,Penggilingan,1874.42,46821.03,Grade B
+2025-12-08,Jawa Barat,Perkebunan Negara,Fermentasi,1967.82,58488.18,Grade A
+2025-04-21,Jawa Timur,Perkebunan Negara,Penggilingan,1797.82,36635.15,Grade B
+2026-02-04,Jawa Timur,Perkebunan Swasta,Fermentasi,970.82,59998.15,Grade C
+2025-04-06,Sumatera,Perkebunan Rakyat,Penggilingan,1674.6,47674.33,Grade C
+2024-04-19,Jawa Timur,Perkebunan Negara,Pengeringan,1841.15,52686.61,Grade B
+2025-04-15,Jawa Timur,Perkebunan Swasta,Penggilingan,1514.79,38828.24,Grade C
+2025-04-08,Jawa Timur,Perkebunan Swasta,Fermentasi,585.53,44138.41,Grade C
+2025-07-02,Bali,Perkebunan Negara,Penggilingan,1031.56,42527.52,Grade C
+2025-01-07,Sulawesi,Perkebunan Rakyat,Pengeringan,1650.4,40416.45,Grade B
+2024-11-09,Bali,Perkebunan Swasta,Penggilingan,1861.55,31771.47,Grade A
+2024-08-30,Jawa Barat,Perkebunan Rakyat,Pengeringan,1293.57,44796.31,Grade B
+2024-06-30,Bali,Perkebunan Negara,Penggilingan,456.36,57535.92,Grade B
+2025-12-14,NTT,Perkebunan Negara,Penggilingan,1359.32,40093.75,Grade A
+2025-08-12,Sulawesi,Perkebunan Rakyat,Pengeringan,1544.12,32206.62,Grade C
+2025-09-21,Jawa Barat,Perkebunan Swasta,Penggilingan,1056.35,35853.09,Grade A
+2024-06-26,Bali,Perkebunan Rakyat,Pengeringan,734.98,28518.09,Grade B
+2025-01-30,Jawa Timur,Perkebunan Swasta,Penggilingan,1732.88,26907.58,Grade A
+2024-02-20,Jawa Barat,Perkebunan Negara,Fermentasi,1843.32,34475.91,Grade C
+2025-03-29,NTT,Perkebunan Negara,Pengeringan,1447.92,57295.16,Grade A
+2024-05-07,Bali,Perkebunan Swasta,Pengeringan,430.63,49482.25,Grade A
+2025-09-22,Jawa Barat,Perkebunan Rakyat,Pengeringan,226.03,51551.53,Grade C
+2024-07-12,Jawa Timur,Perkebunan Negara,Fermentasi,1552.7,44042.71,Grade A
+2025-04-30,Jawa Timur,Perkebunan Negara,Roasting,241.63,59067.86,Grade A
+2024-10-26,NTT,Perkebunan Swasta,Pengeringan,1087.95,57408.16,Grade A
+2025-04-04,Bali,Perkebunan Negara,Fermentasi,269.62,39853.94,Grade B
+2025-07-23,Jawa Barat,Perkebunan Rakyat,Pengeringan,1219.14,58754.09,Grade A
+2025-08-19,Bali,Perkebunan Swasta,Fermentasi,874.67,58966.05,Grade C
+2024-05-02,Jawa Timur,Perkebunan Negara,Penggilingan,1362.19,35976.28,Grade C
+2025-02-08,Sumatera,Perkebunan Swasta,Roasting,233.22,34932.7,Grade A
+2024-03-20,Bali,Perkebunan Rakyat,Pengeringan,917.71,29470.5,Grade C
+2024-10-23,NTT,Perkebunan Swasta,Fermentasi,1137.96,43435.31,Grade A
+2026-01-11,Sulawesi,Perkebunan Rakyat,Pengeringan,1868.58,37475.66,Grade C
+2025-12-18,NTT,Perkebunan Negara,Penggilingan,1939.39,32921.49,Grade B
+2025-10-30,Jawa Barat,Perkebunan Swasta,Roasting,1301.27,33430.0,Grade B
+2024-04-04,NTT,Perkebunan Negara,Pengeringan,1047.66,39784.61,Grade B
+2025-09-07,NTT,Perkebunan Swasta,Roasting,950.7,38137.29,Grade B
+2025-06-21,Sulawesi,Perkebunan Negara,Penggilingan,1031.04,58760.11,Grade B
+2025-08-17,Sulawesi,Perkebunan Rakyat,Fermentasi,1466.4,42900.37,Grade A
+2024-07-02,Jawa Barat,Perkebunan Negara,Fermentasi,500.08,50576.1,Grade B
+2025-08-24,Jawa Barat,Perkebunan Swasta,Roasting,1700.0,32586.87,Grade A
+2024-09-15,Jawa Timur,Perkebunan Negara,Fermentasi,994.67,42867.7,Grade B
+2025-04-20,Sulawesi,Perkebunan Rakyat,Penggilingan,509.57,29690.01,Grade C
+2025-11-26,Sumatera,Perkebunan Negara,Fermentasi,1919.18,54431.31,Grade B
+2024-02-10,Bali,Perkebunan Negara,Penggilingan,684.07,38135.83,Grade B
+2026-01-16,Jawa Timur,Perkebunan Rakyat,Fermentasi,637.93,57888.16,Grade C
+2024-01-11,Sumatera,Perkebunan Swasta,Penggilingan,1234.9,52938.01,Grade C
+2024-09-23,Sulawesi,Perkebunan Swasta,Pengeringan,374.99,30293.63,Grade C
+2024-01-19,NTT,Perkebunan Rakyat,Roasting,1618.54,35418.5,Grade C
+2025-11-17,Bali,Perkebunan Swasta,Roasting,729.77,55369.12,Grade A
+2026-01-12,Bali,Perkebunan Swasta,Fermentasi,948.43,37063.57,Grade C
+2024-08-28,NTT,Perkebunan Negara,Fermentasi,1647.17,33708.53,Grade C
+2024-12-10,Bali,Perkebunan Rakyat,Penggilingan,556.73,29588.5,Grade C
+2024-04-01,Jawa Barat,Perkebunan Rakyat,Fermentasi,913.64,57733.04,Grade C
+2025-10-11,Jawa Timur,Perkebunan Rakyat,Penggilingan,425.75,38436.03,Grade A
+2025-02-02,Jawa Timur,Perkebunan Negara,Penggilingan,1485.52,49433.35,Grade B
+2024-11-22,Bali,Perkebunan Rakyat,Pengeringan,350.16,31704.74,Grade B
+2024-07-26,Sulawesi,Perkebunan Negara,Roasting,469.7,55167.95,Grade C
+2025-11-24,Jawa Barat,Perkebunan Rakyat,Penggilingan,1637.24,45086.33,Grade C
+2025-07-05,Sumatera,Perkebunan Swasta,Penggilingan,1149.54,26960.42,Grade A
+2024-04-06,Sumatera,Perkebunan Swasta,Pengeringan,399.19,59313.07,Grade C
+2025-10-29,Jawa Barat,Perkebunan Rakyat,Pengeringan,712.08,55906.5,Grade A
+2024-10-27,Jawa Timur,Perkebunan Rakyat,Roasting,769.06,34202.61,Grade B
+2025-11-07,Jawa Timur,Perkebunan Swasta,Pengeringan,630.65,27616.4,Grade A
+2024-02-02,Jawa Timur,Perkebunan Swasta,Pengeringan,1677.97,30303.69,Grade C
+2024-01-11,NTT,Perkebunan Swasta,Pengeringan,1425.37,43779.47,Grade B
+2024-06-11,Jawa Timur,Perkebunan Negara,Penggilingan,1600.13,25801.69,Grade C
+2024-10-30,NTT,Perkebunan Swasta,Fermentasi,1282.59,50985.63,Grade C
+2026-01-28,NTT,Perkebunan Negara,Penggilingan,727.57,30940.57,Grade A
+2025-04-11,Jawa Timur,Perkebunan Rakyat,Pengeringan,1793.81,49681.78,Grade C
+2025-05-20,Sulawesi,Perkebunan Rakyat,Roasting,1378.97,45221.54,Grade A
+2026-02-07,Jawa Barat,Perkebunan Negara,Roasting,470.81,49837.34,Grade C
+2024-01-07,NTT,Perkebunan Swasta,Roasting,1017.82,45169.61,Grade B
+2025-03-02,Sumatera,Perkebunan Swasta,Penggilingan,831.86,54772.71,Grade B
+2025-07-19,Jawa Timur,Perkebunan Swasta,Roasting,920.55,58053.21,Grade C
+2024-05-25,Jawa Barat,Perkebunan Negara,Roasting,1865.29,45797.38,Grade B
+2024-05-07,Sulawesi,Perkebunan Negara,Fermentasi,1178.3,43320.49,Grade A
+2026-02-21,Jawa Timur,Perkebunan Negara,Roasting,227.29,52930.77,Grade C
+2025-05-27,NTT,Perkebunan Swasta,Roasting,1159.04,48718.8,Grade B
+2024-12-16,NTT,Perkebunan Negara,Roasting,795.71,59763.49,Grade A
+2024-11-27,Jawa Barat,Perkebunan Negara,Roasting,1034.08,41745.56,Grade B
+2024-11-23,Sumatera,Perkebunan Rakyat,Fermentasi,917.2,39629.11,Grade B
+2025-07-24,Sulawesi,Perkebunan Rakyat,Fermentasi,1857.64,37119.87,Grade C
+2024-11-19,Sulawesi,Perkebunan Rakyat,Fermentasi,204.83,35106.0,Grade A
+2026-01-06,Jawa Barat,Perkebunan Rakyat,Fermentasi,856.6,57312.67,Grade A
+2024-06-03,Bali,Perkebunan Rakyat,Penggilingan,1963.83,38979.03,Grade C
